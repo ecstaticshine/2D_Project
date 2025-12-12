@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Guy",
+    "BaseClassId": "Myrmidon",
+    "UnitName": "기",
+    "Level": 4,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 21,
+        "Power": 6,
+        "Skill": 12,
+        "Spd": 11,
+        "Luck": 5,
+        "Def": 5,
+        "Res": 1,
+        "Move": 5,
+        "Con": 5,
+        "Aid": 4
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 75,
+        "PowerGrowth": 30,
+        "SkillGrowth": 50,
+        "SpdGrowth": 70,
+        "LuckGrowth": 45,
+        "DefGrowth": 15,
+        "ResGrowth": 25
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "C",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        },
+        {
+            "itemId": "KillSword",
+            "Durability": 20
+        }
+    ]
+}

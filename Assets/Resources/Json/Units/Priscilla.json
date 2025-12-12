@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Priscilla",
+    "BaseClassId": "Troubadour",
+    "UnitName": "프리실라",
+    "Level": 4,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 17,
+        "Power": 6,
+        "Skill": 6,
+        "Spd": 8,
+        "Luck": 7,
+        "Def": 3,
+        "Res": 7,
+        "Move": 7,
+        "Con": 4,
+        "Aid": 16
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 45,
+        "PowerGrowth": 40,
+        "SkillGrowth": 50,
+        "SpdGrowth": 40,
+        "LuckGrowth": 65,
+        "DefGrowth": 15,
+        "ResGrowth": 50
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 6,
+            "Rank": "C",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "Life",
+            "Durability": 30
+        },
+        {
+            "itemId": "Potion",
+            "Durability": 3
+        }
+    ]
+}

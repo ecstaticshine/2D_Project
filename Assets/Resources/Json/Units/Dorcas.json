@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Dorcas",
+    "BaseClassId": "Fighter",
+    "UnitName": "돌카스",
+    "Level": 5,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 32,
+        "Power": 9,
+        "Skill": 8,
+        "Spd": 6,
+        "Luck": 4,
+        "Def": 4,
+        "Res": 0,
+        "Move": 5,
+        "Con": 14,
+        "Aid": 13
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 80,
+        "PowerGrowth": 60,
+        "SkillGrowth": 40,
+        "SpdGrowth": 20,
+        "LuckGrowth": 45,
+        "DefGrowth": 25,
+        "ResGrowth": 15
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 2,
+            "Rank": "C",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronAxe",
+            "Durability": 46
+        },
+        {
+            "itemId": "ThrowAxe",
+            "Durability": 20
+        }
+    ]
+}

@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 6f0bd38627999ce42b9559cf7b55d4c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3279297308578666480
+    second: Attack_Spear_Crit_0
+  - first:
+      213: -8430321116555766588
+    second: Attack_Spear_Crit_1
+  - first:
+      213: 3690736639684607890
+    second: Attack_Spear_Crit_2
+  - first:
+      213: 6637843703685025157
+    second: Attack_Spear_Crit_3
+  - first:
+      213: 9063895233965254116
+    second: Attack_Spear_Crit_4
+  - first:
+      213: 439663275730680889
+    second: Attack_Spear_Crit_5
+  - first:
+      213: -7529522593319479594
+    second: Attack_Spear_Crit_6
+  - first:
+      213: 1406562067741102609
+    second: Attack_Spear_Crit_7
+  - first:
+      213: -5850990057559433584
+    second: Attack_Spear_Crit_8
+  - first:
+      213: 1810192717413867309
+    second: Attack_Spear_Crit_9
+  - first:
+      213: -5635923221185336463
+    second: Attack_Spear_Crit_10
+  - first:
+      213: -5020618291970483232
+    second: Attack_Spear_Crit_11
+  - first:
+      213: -5599288602973675467
+    second: Attack_Spear_Crit_12
+  - first:
+      213: -2552399651162461874
+    second: Attack_Spear_Crit_13
+  - first:
+      213: 8697765396214488593
+    second: Attack_Spear_Crit_14
+  - first:
+      213: -1447563531077254671
+    second: Attack_Spear_Crit_15
+  - first:
+      213: 1301942291949862652
+    second: Attack_Spear_Crit_16
+  - first:
+      213: 932075316444143129
+    second: Attack_Spear_Crit_17
+  - first:
+      213: -764422397370605871
+    second: Attack_Spear_Crit_18
+  - first:
+      213: 6223721500188124310
+    second: Attack_Spear_Crit_19
+  - first:
+      213: -921652231326251729
+    second: Attack_Spear_Crit_20
+  - first:
+      213: -6727719414554517520
+    second: Attack_Spear_Crit_21
+  - first:
+      213: 284726982940612718
+    second: Attack_Spear_Crit_22
+  - first:
+      213: -7405983467553422605
+    second: Attack_Spear_Crit_23
+  - first:
+      213: -2547411512012636268
+    second: Attack_Spear_Crit_24
+  - first:
+      213: 2268684765948533122
+    second: Attack_Spear_Crit_25
+  - first:
+      213: 4867028928881502654
+    second: Attack_Spear_Crit_26
+  - first:
+      213: -3458206753369541319
+    second: Attack_Spear_Crit_27
+  - first:
+      213: -1039283549950585012
+    second: Attack_Spear_Crit_28
+  - first:
+      213: -8973916061797643807
+    second: Attack_Spear_Crit_29
+  - first:
+      213: 3739819231996076440
+    second: Attack_Spear_Crit_30
+  - first:
+      213: -5531914969646369634
+    second: Attack_Spear_Crit_31
+  - first:
+      213: 9003081071828622861
+    second: Attack_Spear_Crit_32
+  - first:
+      213: 3820210535661422165
+    second: Attack_Spear_Crit_33
+  - first:
+      213: 2243872029378081617
+    second: Attack_Spear_Crit_34
+  - first:
+      213: 7710229482804982514
+    second: Attack_Spear_Crit_35
+  - first:
+      213: -3717202150760738637
+    second: Attack_Spear_Crit_36
+  - first:
+      213: 4811044566252233567
+    second: Attack_Spear_Crit_37
+  - first:
+      213: -5393414604190258490
+    second: Attack_Spear_Crit_38
+  - first:
+      213: -6527610004830063774
+    second: Attack_Spear_Crit_39
+  - first:
+      213: -3249562390435588833
+    second: Attack_Spear_Crit_40
+  - first:
+      213: 6679537362299981004
+    second: Attack_Spear_Crit_41
+  - first:
+      213: -618157122540143698
+    second: Attack_Spear_Crit_42
+  - first:
+      213: -4077339095169827106
+    second: Attack_Spear_Crit_43
+  - first:
+      213: -6749819474924220916
+    second: Attack_Spear_Crit_44
+  - first:
+      213: 7174826139981984764
+    second: Attack_Spear_Crit_45
+  - first:
+      213: -8914234025683631343
+    second: Attack_Spear_Crit_46
+  - first:
+      213: -8839840811242578654
+    second: Attack_Spear_Crit_47
+  - first:
+      213: 8765447639120499102
+    second: Attack_Spear_Crit_48
+  - first:
+      213: -4117755534405619439
+    second: Attack_Spear_Crit_49
+  - first:
+      213: 6184484382230955049
+    second: Attack_Spear_Crit_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7d9b61787628d20800000000000000
+      internalID: 3279297308578666480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 321
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c418393c9b710b80800000000000000
+      internalID: -8430321116555766588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f7bef5b61283330800000000000000
+      internalID: 3690736639684607890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 324
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d85b00eab5e1c50800000000000000
+      internalID: 6637843703685025157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 324
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ead551bc69cd70800000000000000
+      internalID: 9063895233965254116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c36ba7b6ff91600800000000000000
+      internalID: 439663275730680889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 325
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61ae03813c18790800000000000000
+      internalID: -7529522593319479594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 326
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125f329fbc158310800000000000000
+      internalID: 1406562067741102609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 326
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ed3d2ea8b1dcea0800000000000000
+      internalID: -5850990057559433584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 248
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd3788fa81f1910800000000000000
+      internalID: 1810192717413867309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 249
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6fd3d0bd29c1b0800000000000000
+      internalID: -5635923221185336463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 250
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb554a834e235ab0800000000000000
+      internalID: -5020618291970483232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 250
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5306cd09ea45b42b0800000000000000
+      internalID: -5599288602973675467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4961ab5a0e049cd0800000000000000
+      internalID: -2552399651162461874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 252
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e9c0d8b8ba4b870800000000000000
+      internalID: 8697765396214488593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 253
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1845453a839ebe0800000000000000
+      internalID: -1447563531077254671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 253
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfebab5dd9d611210800000000000000
+      internalID: 1301942291949862652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 184
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e109cdf856fec00800000000000000
+      internalID: 932075316444143129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 182
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de5f5231e93465f0800000000000000
+      internalID: -764422397370605871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694acafcab91f5650800000000000000
+      internalID: 6223721500188124310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 182
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f254a51cd22a533f0800000000000000
+      internalID: -921652231326251729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 183
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff9af266d652a2a0800000000000000
+      internalID: -6727719414554517520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 182
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d424bead83f300800000000000000
+      internalID: 284726982940612718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 178
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2001c5649a83990800000000000000
+      internalID: -7405983467553422605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 175
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffeb10ab6c5acd0800000000000000
+      internalID: -2547411512012636268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 175
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d3bd46ccfb7f10800000000000000
+      internalID: 2268684765948533122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9288136092b8340800000000000000
+      internalID: 4867028928881502654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9353d89b74bf100d0800000000000000
+      internalID: -3458206753369541319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 83
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d9402e19b391f0800000000000000
+      internalID: -1039283549950585012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9016c33ee367380800000000000000
+      internalID: -8973916061797643807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ec4fe6c186e330800000000000000
+      internalID: 3739819231996076440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 85
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ff8af4a0ba33b0800000000000000
+      internalID: -5531914969646369634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 80
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5362d88e51fc70800000000000000
+      internalID: 9003081071828622861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 75
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556cd49ed3d140530800000000000000
+      internalID: 3820210535661422165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 69
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f380e8b5d32f10800000000000000
+      internalID: 2243872029378081617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 67
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2b5533ddc300b60800000000000000
+      internalID: 7710229482804982514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09695a658d96cc0800000000000000
+      internalID: -3717202150760738637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a9020b8344c240800000000000000
+      internalID: 4811044566252233567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 69
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cae5d63efdb625b0800000000000000
+      internalID: -5393414604190258490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 69
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26371dd09454965a0800000000000000
+      internalID: -6527610004830063774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 69
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151e9a093c37e2d0800000000000000
+      internalID: -3249562390435588833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc07df57db72bc50800000000000000
+      internalID: 6679537362299981004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabfd974f5ddb67f0800000000000000
+      internalID: -618157122540143698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edef69312b16a67c0800000000000000
+      internalID: -4077339095169827106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec02b13f2d352a0800000000000000
+      internalID: -6749819474924220916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf330d64c5a129360800000000000000
+      internalID: 7174826139981984764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1134d6e12674a4480800000000000000
+      internalID: -8914234025683631343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d92ee1e93925580800000000000000
+      internalID: -8839840811242578654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91501bbf2025a970800000000000000
+      internalID: 8765447639120499102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111bad3882bcad6c0800000000000000
+      internalID: -4117755534405619439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Spear_Crit_50
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c3d167c3b3d550800000000000000
+      internalID: 6184484382230955049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Spear_Crit_0: 3279297308578666480
+      Attack_Spear_Crit_1: -8430321116555766588
+      Attack_Spear_Crit_10: -5635923221185336463
+      Attack_Spear_Crit_11: -5020618291970483232
+      Attack_Spear_Crit_12: -5599288602973675467
+      Attack_Spear_Crit_13: -2552399651162461874
+      Attack_Spear_Crit_14: 8697765396214488593
+      Attack_Spear_Crit_15: -1447563531077254671
+      Attack_Spear_Crit_16: 1301942291949862652
+      Attack_Spear_Crit_17: 932075316444143129
+      Attack_Spear_Crit_18: -764422397370605871
+      Attack_Spear_Crit_19: 6223721500188124310
+      Attack_Spear_Crit_2: 3690736639684607890
+      Attack_Spear_Crit_20: -921652231326251729
+      Attack_Spear_Crit_21: -6727719414554517520
+      Attack_Spear_Crit_22: 284726982940612718
+      Attack_Spear_Crit_23: -7405983467553422605
+      Attack_Spear_Crit_24: -2547411512012636268
+      Attack_Spear_Crit_25: 2268684765948533122
+      Attack_Spear_Crit_26: 4867028928881502654
+      Attack_Spear_Crit_27: -3458206753369541319
+      Attack_Spear_Crit_28: -1039283549950585012
+      Attack_Spear_Crit_29: -8973916061797643807
+      Attack_Spear_Crit_3: 6637843703685025157
+      Attack_Spear_Crit_30: 3739819231996076440
+      Attack_Spear_Crit_31: -5531914969646369634
+      Attack_Spear_Crit_32: 9003081071828622861
+      Attack_Spear_Crit_33: 3820210535661422165
+      Attack_Spear_Crit_34: 2243872029378081617
+      Attack_Spear_Crit_35: 7710229482804982514
+      Attack_Spear_Crit_36: -3717202150760738637
+      Attack_Spear_Crit_37: 4811044566252233567
+      Attack_Spear_Crit_38: -5393414604190258490
+      Attack_Spear_Crit_39: -6527610004830063774
+      Attack_Spear_Crit_4: 9063895233965254116
+      Attack_Spear_Crit_40: -3249562390435588833
+      Attack_Spear_Crit_41: 6679537362299981004
+      Attack_Spear_Crit_42: -618157122540143698
+      Attack_Spear_Crit_43: -4077339095169827106
+      Attack_Spear_Crit_44: -6749819474924220916
+      Attack_Spear_Crit_45: 7174826139981984764
+      Attack_Spear_Crit_46: -8914234025683631343
+      Attack_Spear_Crit_47: -8839840811242578654
+      Attack_Spear_Crit_48: 8765447639120499102
+      Attack_Spear_Crit_49: -4117755534405619439
+      Attack_Spear_Crit_5: 439663275730680889
+      Attack_Spear_Crit_50: 6184484382230955049
+      Attack_Spear_Crit_6: -7529522593319479594
+      Attack_Spear_Crit_7: 1406562067741102609
+      Attack_Spear_Crit_8: -5850990057559433584
+      Attack_Spear_Crit_9: 1810192717413867309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

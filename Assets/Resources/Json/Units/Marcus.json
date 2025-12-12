@@ -1,0 +1,51 @@
+﻿{
+    "UnitId": "Marcus",
+    "BaseClassId": "Paladin",
+    "UnitName": "마커스",
+    "Level": 1,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 31,
+        "Power": 15,
+        "Skill": 15,
+        "Spd": 11,
+        "Luck": 8,
+        "Def": 10,
+        "Res": 8,
+        "Move": 8,
+        "Con": 11,
+        "Aid": 14
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 65,
+        "PowerGrowth": 30,
+        "SkillGrowth": 50,
+        "SpdGrowth": 25,
+        "LuckGrowth": 30,
+        "DefGrowth": 15,
+        "ResGrowth": 35
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "A",
+            "Exp": 0
+        },
+        {
+            "WeaponType": 1,
+            "Rank": "A",
+            "Exp": 0
+        },
+        {
+            "WeaponType": 2,
+            "Rank": "B",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        }
+    ]
+}

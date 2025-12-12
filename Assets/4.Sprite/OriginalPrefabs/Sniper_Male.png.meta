@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 40638386424038e4db11e1806c350965
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5771707230945857466
+    second: Sniper_Male_0
+  - first:
+      213: -8183762454743656999
+    second: Sniper_Male_1
+  - first:
+      213: 3593218868642190686
+    second: Sniper_Male_2
+  - first:
+      213: -9179909107995931156
+    second: Sniper_Male_3
+  - first:
+      213: 6904838971895932285
+    second: Sniper_Male_4
+  - first:
+      213: 8627432486488756706
+    second: Sniper_Male_5
+  - first:
+      213: -4733573147070731021
+    second: Sniper_Male_6
+  - first:
+      213: -4981536677133436962
+    second: Sniper_Male_7
+  - first:
+      213: -2921676072743204953
+    second: Sniper_Male_8
+  - first:
+      213: -4428492100863911364
+    second: Sniper_Male_9
+  - first:
+      213: -8203522988781660567
+    second: Sniper_Male_10
+  - first:
+      213: 6948190499282970293
+    second: Sniper_Male_11
+  - first:
+      213: 1337154563072346358
+    second: Sniper_Male_12
+  - first:
+      213: 1042012255948128361
+    second: Sniper_Male_13
+  - first:
+      213: -2689005292272263963
+    second: Sniper_Male_14
+  - first:
+      213: 4668928237993450284
+    second: Sniper_Male_15
+  - first:
+      213: -5535596486697210524
+    second: Sniper_Male_16
+  - first:
+      213: 1981741023476724092
+    second: Sniper_Male_17
+  - first:
+      213: -6645462608191362643
+    second: Sniper_Male_18
+  - first:
+      213: -7648164002977006280
+    second: Sniper_Male_19
+  - first:
+      213: 7539245872099836400
+    second: Sniper_Male_20
+  - first:
+      213: 2465445530125813343
+    second: Sniper_Male_21
+  - first:
+      213: 8919522835143355510
+    second: Sniper_Male_22
+  - first:
+      213: -818824154890365853
+    second: Sniper_Male_23
+  - first:
+      213: -7238820213005216290
+    second: Sniper_Male_24
+  - first:
+      213: -8633859453784354392
+    second: Sniper_Male_25
+  - first:
+      213: 2164806497832660424
+    second: Sniper_Male_26
+  - first:
+      213: 1705149659669643287
+    second: Sniper_Male_27
+  - first:
+      213: -3354075993039534140
+    second: Sniper_Male_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sniper_Male_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 491
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc4109529391050800000000000000
+      internalID: 5771707230945857466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 491
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d553d6286f6d6e80800000000000000
+      internalID: -8183762454743656999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 489
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5516a9f58dadd130800000000000000
+      internalID: 3593218868642190686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 488
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced8783bd496a9080800000000000000
+      internalID: -9179909107995931156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 488
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d756127267ae2df50800000000000000
+      internalID: 6904838971895932285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 489
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d3d8e22ccab770800000000000000
+      internalID: 8627432486488756706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 489
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc65826d48fe4eb0800000000000000
+      internalID: -4733573147070731021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 490
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7b1e319c60edab0800000000000000
+      internalID: -4981536677133436962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 491
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7026f671f1477d0800000000000000
+      internalID: -2921676072743204953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 435
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a126db5e5da82c0800000000000000
+      internalID: -4428492100863911364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 435
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9661bea4e4b372e80800000000000000
+      internalID: -8203522988781660567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 350
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6618d227eec6060800000000000000
+      internalID: 6948190499282970293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 351
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f848b59df68e8210800000000000000
+      internalID: 1337154563072346358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960446f30a8f57e00800000000000000
+      internalID: 1042012255948128361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 350
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec57f20febbeaad0800000000000000
+      internalID: -2689005292272263963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 350
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd363de7d5bc040800000000000000
+      internalID: 4668928237993450284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 348
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d238ef25c9d23b0800000000000000
+      internalID: -5535596486697210524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 348
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71362d06fe808b10800000000000000
+      internalID: 1981741023476724092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 347
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ec9e87f296c3a0800000000000000
+      internalID: -6645462608191362643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_19
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 351
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d30aa6c534cd590800000000000000
+      internalID: -7648164002977006280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 286
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f147d01d28c0a860800000000000000
+      internalID: 7539245872099836400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 285
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56493ca5a5073220800000000000000
+      internalID: 2465445530125813343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 285
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c64bac2c288cb70800000000000000
+      internalID: 8919522835143355510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 286
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364104af4c3f2a4f0800000000000000
+      internalID: -818824154890365853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 286
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed518e28e5b8a8b90800000000000000
+      internalID: -7238820213005216290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 287
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11988229e5e2880800000000000000
+      internalID: -8633859453784354392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 288
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cde5c64a00fa0e10800000000000000
+      internalID: 2164806497832660424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710cc79c498e9a710800000000000000
+      internalID: 1705149659669643287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Male_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 187
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7863da7ade371d0800000000000000
+      internalID: -3354075993039534140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sniper_Male_0: 5771707230945857466
+      Sniper_Male_1: -8183762454743656999
+      Sniper_Male_10: -8203522988781660567
+      Sniper_Male_11: 6948190499282970293
+      Sniper_Male_12: 1337154563072346358
+      Sniper_Male_13: 1042012255948128361
+      Sniper_Male_14: -2689005292272263963
+      Sniper_Male_15: 4668928237993450284
+      Sniper_Male_16: -5535596486697210524
+      Sniper_Male_17: 1981741023476724092
+      Sniper_Male_18: -6645462608191362643
+      Sniper_Male_19: -7648164002977006280
+      Sniper_Male_2: 3593218868642190686
+      Sniper_Male_20: 7539245872099836400
+      Sniper_Male_21: 2465445530125813343
+      Sniper_Male_22: 8919522835143355510
+      Sniper_Male_23: -818824154890365853
+      Sniper_Male_24: -7238820213005216290
+      Sniper_Male_25: -8633859453784354392
+      Sniper_Male_26: 2164806497832660424
+      Sniper_Male_27: 1705149659669643287
+      Sniper_Male_28: -3354075993039534140
+      Sniper_Male_3: -9179909107995931156
+      Sniper_Male_4: 6904838971895932285
+      Sniper_Male_5: 8627432486488756706
+      Sniper_Male_6: -4733573147070731021
+      Sniper_Male_7: -4981536677133436962
+      Sniper_Male_8: -2921676072743204953
+      Sniper_Male_9: -4428492100863911364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

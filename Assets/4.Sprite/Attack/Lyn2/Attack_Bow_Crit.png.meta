@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6ab2e9cc389940f4797dfb6adb0a47f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1678204261540304718
+    second: Attack_Bow_Crit_0
+  - first:
+      213: 8474770762427364484
+    second: Attack_Bow_Crit_1
+  - first:
+      213: 3555345935494083056
+    second: Attack_Bow_Crit_2
+  - first:
+      213: -6015628750474344099
+    second: Attack_Bow_Crit_3
+  - first:
+      213: 6867103706559105717
+    second: Attack_Bow_Crit_4
+  - first:
+      213: -2785213933334929322
+    second: Attack_Bow_Crit_5
+  - first:
+      213: 1524028055638758090
+    second: Attack_Bow_Crit_6
+  - first:
+      213: -4551278406897747614
+    second: Attack_Bow_Crit_7
+  - first:
+      213: 8309424526323251776
+    second: Attack_Bow_Crit_8
+  - first:
+      213: 5113720173053337360
+    second: Attack_Bow_Crit_9
+  - first:
+      213: 3213985773377907840
+    second: Attack_Bow_Crit_10
+  - first:
+      213: -8463778005330359571
+    second: Attack_Bow_Crit_11
+  - first:
+      213: -7412831544519263664
+    second: Attack_Bow_Crit_12
+  - first:
+      213: -2471685608656160487
+    second: Attack_Bow_Crit_13
+  - first:
+      213: 1160927642334738769
+    second: Attack_Bow_Crit_14
+  - first:
+      213: 6840720261795685128
+    second: Attack_Bow_Crit_15
+  - first:
+      213: -3099295137220463008
+    second: Attack_Bow_Crit_16
+  - first:
+      213: 8036317603984264449
+    second: Attack_Bow_Crit_17
+  - first:
+      213: -743893914276111428
+    second: Attack_Bow_Crit_18
+  - first:
+      213: 5663729801023553562
+    second: Attack_Bow_Crit_19
+  - first:
+      213: 1834007803616537127
+    second: Attack_Bow_Crit_20
+  - first:
+      213: 4356280119269670867
+    second: Attack_Bow_Crit_21
+  - first:
+      213: -899385825945618926
+    second: Attack_Bow_Crit_22
+  - first:
+      213: 4627376260976317529
+    second: Attack_Bow_Crit_23
+  - first:
+      213: 273136518414815840
+    second: Attack_Bow_Crit_24
+  - first:
+      213: -4981128809397281311
+    second: Attack_Bow_Crit_25
+  - first:
+      213: -8565144971363191694
+    second: Attack_Bow_Crit_26
+  - first:
+      213: 6123354137892437164
+    second: Attack_Bow_Crit_27
+  - first:
+      213: 3263762156929301772
+    second: Attack_Bow_Crit_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8e75a9d12d5b8e0800000000000000
+      internalID: -1678204261540304718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 82
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484795f6b1f6c9570800000000000000
+      internalID: 8474770762427364484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f0c29a40275130800000000000000
+      internalID: 3555345935494083056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59895b0681348ca0800000000000000
+      internalID: -6015628750474344099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4939007adc4f50800000000000000
+      internalID: 6867103706559105717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 69
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506a103faee859d0800000000000000
+      internalID: -2785213933334929322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 105
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d314217f662510800000000000000
+      internalID: 1524028055638758090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 69
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26934f2176c96d0c0800000000000000
+      internalID: -4551278406897747614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 69
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7a6bd491015370800000000000000
+      internalID: 8309424526323251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fd79b576597f640800000000000000
+      internalID: 5113720173053337360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c695f480f5a9c20800000000000000
+      internalID: 3213985773377907840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 69
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea05864fbe9a8a80800000000000000
+      internalID: -8463778005330359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 69
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a7e113cf4502990800000000000000
+      internalID: -7412831544519263664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 69
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919ba93d80fc2bdd0800000000000000
+      internalID: -2471685608656160487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 69
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593b433a817c1010800000000000000
+      internalID: 1160927642334738769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803262c95de1fee50800000000000000
+      internalID: 6840720261795685128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f0e35e771df4d0800000000000000
+      internalID: -3099295137220463008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d43b7584cb68f60800000000000000
+      internalID: 8036317603984264449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb5ff02d682da5f0800000000000000
+      internalID: -743893914276111428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108dcd0f3c999e40800000000000000
+      internalID: 5663729801023553562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aabd16164b37910800000000000000
+      internalID: 1834007803616537127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3a2b10bd947c30800000000000000
+      internalID: 4356280119269670867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2167d704b5db483f0800000000000000
+      internalID: -899385825945618926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9549195413eb73040800000000000000
+      internalID: 4627376260976317529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0625d4367306ac300800000000000000
+      internalID: 273136518414815840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed196f2db97fdab0800000000000000
+      internalID: -4981128809397281311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747c24570e722980800000000000000
+      internalID: -8565144971363191694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 17
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac3ffe35268af450800000000000000
+      internalID: 6123354137892437164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Bow_Crit_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d322bb3663b4d20800000000000000
+      internalID: 3263762156929301772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Bow_Crit_0: -1678204261540304718
+      Attack_Bow_Crit_1: 8474770762427364484
+      Attack_Bow_Crit_10: 3213985773377907840
+      Attack_Bow_Crit_11: -8463778005330359571
+      Attack_Bow_Crit_12: -7412831544519263664
+      Attack_Bow_Crit_13: -2471685608656160487
+      Attack_Bow_Crit_14: 1160927642334738769
+      Attack_Bow_Crit_15: 6840720261795685128
+      Attack_Bow_Crit_16: -3099295137220463008
+      Attack_Bow_Crit_17: 8036317603984264449
+      Attack_Bow_Crit_18: -743893914276111428
+      Attack_Bow_Crit_19: 5663729801023553562
+      Attack_Bow_Crit_2: 3555345935494083056
+      Attack_Bow_Crit_20: 1834007803616537127
+      Attack_Bow_Crit_21: 4356280119269670867
+      Attack_Bow_Crit_22: -899385825945618926
+      Attack_Bow_Crit_23: 4627376260976317529
+      Attack_Bow_Crit_24: 273136518414815840
+      Attack_Bow_Crit_25: -4981128809397281311
+      Attack_Bow_Crit_26: -8565144971363191694
+      Attack_Bow_Crit_27: 6123354137892437164
+      Attack_Bow_Crit_28: 3263762156929301772
+      Attack_Bow_Crit_3: -6015628750474344099
+      Attack_Bow_Crit_4: 6867103706559105717
+      Attack_Bow_Crit_5: -2785213933334929322
+      Attack_Bow_Crit_6: 1524028055638758090
+      Attack_Bow_Crit_7: -4551278406897747614
+      Attack_Bow_Crit_8: 8309424526323251776
+      Attack_Bow_Crit_9: 5113720173053337360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

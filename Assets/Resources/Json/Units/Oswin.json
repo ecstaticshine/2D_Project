@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Oswin",
+    "BaseClassId": "Knight",
+    "UnitName": "오즈윈",
+    "Level": 13,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 32,
+        "Power": 14,
+        "Skill": 9,
+        "Spd": 5,
+        "Luck": 6,
+        "Def": 15,
+        "Res": 5,
+        "Move": 4,
+        "Con": 14,
+        "Aid": 13
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 90,
+        "PowerGrowth": 40,
+        "SkillGrowth": 30,
+        "SpdGrowth": 30,
+        "LuckGrowth": 35,
+        "DefGrowth": 55,
+        "ResGrowth": 30
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 1,
+            "Rank": "B",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "ThrowSpear",
+            "Durability": 20
+        },
+        {
+            "itemId": "IronSpear",
+            "Durability": 46
+        }
+    ]
+}

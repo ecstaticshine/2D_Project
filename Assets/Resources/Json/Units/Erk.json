@@ -1,0 +1,41 @@
+﻿{
+    "UnitId": "Erk",
+    "BaseClassId": "Mage",
+    "UnitName": "엘크",
+    "Level": 1,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 17,
+        "Power": 5,
+        "Skill": 6,
+        "Spd": 7,
+        "Luck": 3,
+        "Def": 2,
+        "Res": 4,
+        "Move": 5,
+        "Con": 5,
+        "Aid": 4
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 65,
+        "PowerGrowth": 40,
+        "SkillGrowth": 40,
+        "SpdGrowth": 50,
+        "LuckGrowth": 30,
+        "DefGrowth": 20,
+        "ResGrowth": 40
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 4,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "Fire",
+            "Durability": 40
+        }
+    ]
+}

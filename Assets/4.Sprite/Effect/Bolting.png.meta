@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: cd4f654636c580240a734dc22f292c48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8846603785164486465
+    second: Bolting_0
+  - first:
+      213: -3187303490519837569
+    second: Bolting_1
+  - first:
+      213: -1261167459918404342
+    second: Bolting_2
+  - first:
+      213: -2949138853507586517
+    second: Bolting_3
+  - first:
+      213: 4758241260531286653
+    second: Bolting_4
+  - first:
+      213: -3285791711281640084
+    second: Bolting_5
+  - first:
+      213: -9135188093315197181
+    second: Bolting_6
+  - first:
+      213: 7534507194324891866
+    second: Bolting_7
+  - first:
+      213: 2278950153029304774
+    second: Bolting_8
+  - first:
+      213: 7443545322830645627
+    second: Bolting_9
+  - first:
+      213: 4998000884831745755
+    second: Bolting_10
+  - first:
+      213: -6681406977312501873
+    second: Bolting_11
+  - first:
+      213: 280098099239420583
+    second: Bolting_12
+  - first:
+      213: -3309622371691966904
+    second: Bolting_13
+  - first:
+      213: 6896891940792224117
+    second: Bolting_14
+  - first:
+      213: -8349696229973721558
+    second: Bolting_15
+  - first:
+      213: -1908611298610911820
+    second: Bolting_16
+  - first:
+      213: 4789854271533270372
+    second: Bolting_17
+  - first:
+      213: 3774072331063856796
+    second: Bolting_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bolting_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 863
+        width: 168
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147fa53754375ca70800000000000000
+      internalID: 8846603785164486465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 866
+        width: 242
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d338cc5c64c3d0800000000000000
+      internalID: -3187303490519837569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 863
+        width: 136
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05284d80ee6f7ee0800000000000000
+      internalID: -1261167459918404342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 873
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a06386dd8217d0800000000000000
+      internalID: -2949138853507586517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 490
+        width: 76
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720399573ba80240800000000000000
+      internalID: 4758241260531286653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 652
+        width: 43
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8223f8d58662d0800000000000000
+      internalID: -3285791711281640084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 490
+        width: 41
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d19554da493180800000000000000
+      internalID: -9135188093315197181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 652
+        width: 46
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83c5baf52ff8860800000000000000
+      internalID: 7534507194324891866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 490
+        width: 46
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1422cf61570af10800000000000000
+      internalID: 2278950153029304774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 652
+        width: 43
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7947d49809cc4760800000000000000
+      internalID: 7443545322830645627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fb7ff2577c5540800000000000000
+      internalID: 4998000884831745755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 328
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc875f0cfd643a0800000000000000
+      internalID: -6681406977312501873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 328
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a28d6bbcbb13e300800000000000000
+      internalID: 280098099239420583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 380
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e4d92fcfbd112d0800000000000000
+      internalID: -3309622371691966904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 218
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579cc29cdaea6bf50800000000000000
+      internalID: 6896891940792224117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 218
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7ff5748bef1c80800000000000000
+      internalID: -8349696229973721558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 218
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5effbd2204385e0800000000000000
+      internalID: -1908611298610911820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 218
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c0ac051bf87240800000000000000
+      internalID: 4789854271533270372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolting_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e01b90ac2306430800000000000000
+      internalID: 3774072331063856796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bolting_0: 8846603785164486465
+      Bolting_1: -3187303490519837569
+      Bolting_10: 4998000884831745755
+      Bolting_11: -6681406977312501873
+      Bolting_12: 280098099239420583
+      Bolting_13: -3309622371691966904
+      Bolting_14: 6896891940792224117
+      Bolting_15: -8349696229973721558
+      Bolting_16: -1908611298610911820
+      Bolting_17: 4789854271533270372
+      Bolting_18: 3774072331063856796
+      Bolting_2: -1261167459918404342
+      Bolting_3: -2949138853507586517
+      Bolting_4: 4758241260531286653
+      Bolting_5: -3285791711281640084
+      Bolting_6: -9135188093315197181
+      Bolting_7: 7534507194324891866
+      Bolting_8: 2278950153029304774
+      Bolting_9: 7443545322830645627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+﻿{
+    "UnitId": "Rebecca",
+    "BaseClassId": "Archer",
+    "UnitName": "레베카",
+    "Level": 5,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 19,
+        "Power": 5,
+        "Skill": 7,
+        "Spd": 7,
+        "Luck": 6,
+        "Def": 5,
+        "Res": 5,
+        "Move": 5,
+        "Con": 5,
+        "Aid": 4
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 60,
+        "PowerGrowth": 40,
+        "SkillGrowth": 50,
+        "SpdGrowth": 60,
+        "LuckGrowth": 50,
+        "DefGrowth": 15,
+        "ResGrowth": 30
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 3,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronBow",
+            "Durability": 46
+        }
+    ]
+}

@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 4c790095c4cbda340be339097c5bc9ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3331773986790787043
+    second: Attack_Sword_Crit_0
+  - first:
+      213: 9048777393754520512
+    second: Attack_Sword_Crit_1
+  - first:
+      213: -7966026506354711585
+    second: Attack_Sword_Crit_2
+  - first:
+      213: 7427968566380391916
+    second: Attack_Sword_Crit_3
+  - first:
+      213: 2262475257085214576
+    second: Attack_Sword_Crit_4
+  - first:
+      213: -5266586332963493584
+    second: Attack_Sword_Crit_5
+  - first:
+      213: 945834401811673696
+    second: Attack_Sword_Crit_6
+  - first:
+      213: 4835004296585942324
+    second: Attack_Sword_Crit_7
+  - first:
+      213: 6011033101906209614
+    second: Attack_Sword_Crit_8
+  - first:
+      213: 2702962852242282999
+    second: Attack_Sword_Crit_9
+  - first:
+      213: 4125087891856313763
+    second: Attack_Sword_Crit_10
+  - first:
+      213: 6760119987116125053
+    second: Attack_Sword_Crit_11
+  - first:
+      213: -6069873794049515664
+    second: Attack_Sword_Crit_12
+  - first:
+      213: 6020960751510296058
+    second: Attack_Sword_Crit_13
+  - first:
+      213: -3461106013542471847
+    second: Attack_Sword_Crit_14
+  - first:
+      213: -7141977367163831924
+    second: Attack_Sword_Crit_15
+  - first:
+      213: -4755782951556328045
+    second: Attack_Sword_Crit_16
+  - first:
+      213: 1040938028120221305
+    second: Attack_Sword_Crit_17
+  - first:
+      213: -1373297894450218173
+    second: Attack_Sword_Crit_18
+  - first:
+      213: -4494012755324610748
+    second: Attack_Sword_Crit_19
+  - first:
+      213: 1770679339169700423
+    second: Attack_Sword_Crit_20
+  - first:
+      213: -3033859269722474844
+    second: Attack_Sword_Crit_21
+  - first:
+      213: 1977959614056414986
+    second: Attack_Sword_Crit_22
+  - first:
+      213: 3981992677822983501
+    second: Attack_Sword_Crit_23
+  - first:
+      213: 7026309671820537184
+    second: Attack_Sword_Crit_24
+  - first:
+      213: 8410962310080550973
+    second: Attack_Sword_Crit_25
+  - first:
+      213: -3298961519805762763
+    second: Attack_Sword_Crit_26
+  - first:
+      213: -5094466824302769750
+    second: Attack_Sword_Crit_27
+  - first:
+      213: -7659055441097716525
+    second: Attack_Sword_Crit_28
+  - first:
+      213: 6171322761233105820
+    second: Attack_Sword_Crit_29
+  - first:
+      213: -2713718921986440752
+    second: Attack_Sword_Crit_30
+  - first:
+      213: -1092477212385459311
+    second: Attack_Sword_Crit_31
+  - first:
+      213: 6630190583109103264
+    second: Attack_Sword_Crit_32
+  - first:
+      213: -5723851995204226927
+    second: Attack_Sword_Crit_33
+  - first:
+      213: 5564689425376142080
+    second: Attack_Sword_Crit_34
+  - first:
+      213: 3738458964700075978
+    second: Attack_Sword_Crit_35
+  - first:
+      213: 8613799712976053485
+    second: Attack_Sword_Crit_36
+  - first:
+      213: -7013730776639589959
+    second: Attack_Sword_Crit_37
+  - first:
+      213: 1281335118522932995
+    second: Attack_Sword_Crit_38
+  - first:
+      213: 8800111296191096421
+    second: Attack_Sword_Crit_39
+  - first:
+      213: -1035635156260019580
+    second: Attack_Sword_Crit_40
+  - first:
+      213: 4709468069113444903
+    second: Attack_Sword_Crit_41
+  - first:
+      213: -5089216663632573390
+    second: Attack_Sword_Crit_42
+  - first:
+      213: -2714421840526427312
+    second: Attack_Sword_Crit_43
+  - first:
+      213: 7749503679551549867
+    second: Attack_Sword_Crit_44
+  - first:
+      213: 8077715428093935583
+    second: Attack_Sword_Crit_45
+  - first:
+      213: -7899227317637844914
+    second: Attack_Sword_Crit_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e74d8ad9c6dc3e20800000000000000
+      internalID: 3331773986790787043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 318
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb25ed817b39d70800000000000000
+      internalID: 9048777393754520512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 318
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a169291df27190800000000000000
+      internalID: -7966026506354711585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedeed95e02751760800000000000000
+      internalID: 7427968566380391916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 317
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbcab524de56f10800000000000000
+      internalID: 2262475257085214576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 316
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a8cc32a359e6b0800000000000000
+      internalID: -5266586332963493584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 317
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06234509067402d00800000000000000
+      internalID: 945834401811673696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 318
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4351e717ac2691340800000000000000
+      internalID: 4835004296585942324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 318
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4beb3422ca7b6350800000000000000
+      internalID: 6011033101906209614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 237
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f95af8a46ad28520800000000000000
+      internalID: 2702962852242282999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 237
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4c5df4914f3930800000000000000
+      internalID: 4125087891856313763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 236
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2317cf45c0dd50800000000000000
+      internalID: 6760119987116125053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 237
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd932a1f973cba0800000000000000
+      internalID: -6069873794049515664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 236
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5175037efbe8350800000000000000
+      internalID: 6020960751510296058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 237
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95725dc1b6ea7ffc0800000000000000
+      internalID: -3461106013542471847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 236
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f154ac6992ec90800000000000000
+      internalID: -7141977367163831924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 237
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39550af4a90100eb0800000000000000
+      internalID: -4755782951556328045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762d471f97227e00800000000000000
+      internalID: 1040938028120221305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 173
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb08e47d011fce0800000000000000
+      internalID: -1373297894450218173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 177
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475dc6953f02a1c0800000000000000
+      internalID: -4494012755324610748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 173
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a555e3a77b29810800000000000000
+      internalID: 1770679339169700423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 174
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67aa9711195e5d0800000000000000
+      internalID: -3033859269722474844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 173
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb6ef0acf137b10800000000000000
+      internalID: 1977959614056414986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 169
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d68d33e31e24730800000000000000
+      internalID: 3981992677822983501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_24
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 167
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d21c66b67728160800000000000000
+      internalID: 7026309671820537184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 165
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38dc8768adb9b470800000000000000
+      internalID: 8410962310080550973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 164
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5337b44f9fbb732d0800000000000000
+      internalID: -3298961519805762763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 68
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9cb693a61dc49b0800000000000000
+      internalID: -5094466824302769750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 80
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc095ed7a195b590800000000000000
+      internalID: -7659055441097716525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 81
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930591ba51f4a550800000000000000
+      internalID: 6171322761233105820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 83
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d10eb2b40fe65ad0800000000000000
+      internalID: -2713718921986440752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 76
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934e8673cdb6d0f0800000000000000
+      internalID: -1092477212385459311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 71
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeab53053b230c50800000000000000
+      internalID: 6630190583109103264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 66
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f0f6cfeac090b0800000000000000
+      internalID: -5723851995204226927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 64
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eae4ac8fb93d40800000000000000
+      internalID: 5564689425376142080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 65
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac792560f9ca1e330800000000000000
+      internalID: 3738458964700075978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ac4a733d5a8770800000000000000
+      internalID: 8613799712976053485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 65
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b13c2cd4093aae90800000000000000
+      internalID: -7013730776639589959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 67
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fdac1608738c110800000000000000
+      internalID: 1281335118522932995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5666f515996402a70800000000000000
+      internalID: 8800111296191096421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 65
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482273aff4fa0a1f0800000000000000
+      internalID: -1035635156260019580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3d8cc1446b5140800000000000000
+      internalID: 4709468069113444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c8e2388687f59b0800000000000000
+      internalID: -5089216663632573390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3cd8b7bf645ad0800000000000000
+      internalID: -2714421840526427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b045b984cb8b60800000000000000
+      internalID: 7749503679551549867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf3b30626fc91070800000000000000
+      internalID: 8077715428093935583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Sword_Crit_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4072244b9e406290800000000000000
+      internalID: -7899227317637844914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Sword_Crit_0: 3331773986790787043
+      Attack_Sword_Crit_1: 9048777393754520512
+      Attack_Sword_Crit_10: 4125087891856313763
+      Attack_Sword_Crit_11: 6760119987116125053
+      Attack_Sword_Crit_12: -6069873794049515664
+      Attack_Sword_Crit_13: 6020960751510296058
+      Attack_Sword_Crit_14: -3461106013542471847
+      Attack_Sword_Crit_15: -7141977367163831924
+      Attack_Sword_Crit_16: -4755782951556328045
+      Attack_Sword_Crit_17: 1040938028120221305
+      Attack_Sword_Crit_18: -1373297894450218173
+      Attack_Sword_Crit_19: -4494012755324610748
+      Attack_Sword_Crit_2: -7966026506354711585
+      Attack_Sword_Crit_20: 1770679339169700423
+      Attack_Sword_Crit_21: -3033859269722474844
+      Attack_Sword_Crit_22: 1977959614056414986
+      Attack_Sword_Crit_23: 3981992677822983501
+      Attack_Sword_Crit_24: 7026309671820537184
+      Attack_Sword_Crit_25: 8410962310080550973
+      Attack_Sword_Crit_26: -3298961519805762763
+      Attack_Sword_Crit_27: -5094466824302769750
+      Attack_Sword_Crit_28: -7659055441097716525
+      Attack_Sword_Crit_29: 6171322761233105820
+      Attack_Sword_Crit_3: 7427968566380391916
+      Attack_Sword_Crit_30: -2713718921986440752
+      Attack_Sword_Crit_31: -1092477212385459311
+      Attack_Sword_Crit_32: 6630190583109103264
+      Attack_Sword_Crit_33: -5723851995204226927
+      Attack_Sword_Crit_34: 5564689425376142080
+      Attack_Sword_Crit_35: 3738458964700075978
+      Attack_Sword_Crit_36: 8613799712976053485
+      Attack_Sword_Crit_37: -7013730776639589959
+      Attack_Sword_Crit_38: 1281335118522932995
+      Attack_Sword_Crit_39: 8800111296191096421
+      Attack_Sword_Crit_4: 2262475257085214576
+      Attack_Sword_Crit_40: -1035635156260019580
+      Attack_Sword_Crit_41: 4709468069113444903
+      Attack_Sword_Crit_42: -5089216663632573390
+      Attack_Sword_Crit_43: -2714421840526427312
+      Attack_Sword_Crit_44: 7749503679551549867
+      Attack_Sword_Crit_45: 8077715428093935583
+      Attack_Sword_Crit_46: -7899227317637844914
+      Attack_Sword_Crit_5: -5266586332963493584
+      Attack_Sword_Crit_6: 945834401811673696
+      Attack_Sword_Crit_7: 4835004296585942324
+      Attack_Sword_Crit_8: 6011033101906209614
+      Attack_Sword_Crit_9: 2702962852242282999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: bc21cbc907b5e3c478afb0f68f5857a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8211684669093211755
+    second: Sister_Up_0
+  - first:
+      213: -3778916302142321110
+    second: Sister_Up_1
+  - first:
+      213: -3930483538275177949
+    second: Sister_Up_2
+  - first:
+      213: 5621907826374950564
+    second: Sister_Up_3
+  - first:
+      213: 8876833025343431766
+    second: Sister_Up_4
+  - first:
+      213: 2797651231061193081
+    second: Sister_Up_5
+  - first:
+      213: -8965792244796418310
+    second: Sister_Up_6
+  - first:
+      213: -4515113576718099604
+    second: Sister_Up_7
+  - first:
+      213: 1456010945092950037
+    second: Sister_Up_8
+  - first:
+      213: 3380412820805338282
+    second: Sister_Up_9
+  - first:
+      213: 5379608808248703162
+    second: Sister_Up_10
+  - first:
+      213: -897859240108988340
+    second: Sister_Up_11
+  - first:
+      213: -2078164856413783379
+    second: Sister_Up_12
+  - first:
+      213: 3764012340185287629
+    second: Sister_Up_13
+  - first:
+      213: -2310927385201214231
+    second: Sister_Up_14
+  - first:
+      213: -4651376336283645221
+    second: Sister_Up_15
+  - first:
+      213: 7891757489376296361
+    second: Sister_Up_16
+  - first:
+      213: -5591606751841179381
+    second: Sister_Up_17
+  - first:
+      213: -2542580483276427068
+    second: Sister_Up_18
+  - first:
+      213: 4708268055789632776
+    second: Sister_Up_19
+  - first:
+      213: -1175594168713904211
+    second: Sister_Up_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sister_Up_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5919d230d4c3a0e80800000000000000
+      internalID: -8211684669093211755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 116
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ecfde05a79e8bc0800000000000000
+      internalID: -3778916302142321110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 116
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a6699eb0e1479c0800000000000000
+      internalID: -3930483538275177949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3117c167050e40800000000000000
+      internalID: 5621907826374950564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6542d06ea98d03b70800000000000000
+      internalID: 8876833025343431766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97136d8d8f043d620800000000000000
+      internalID: 2797651231061193081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 84
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af615f6c47b139380800000000000000
+      internalID: -8965792244796418310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 80
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b9c23cf181751c0800000000000000
+      internalID: -4515113576718099604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51898538d3ac43410800000000000000
+      internalID: 1456010945092950037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa44742ec83a9ee20800000000000000
+      internalID: 3380412820805338282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 52
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f93e65b538aa40800000000000000
+      internalID: 5379608808248703162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 52
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48600737c92a83f0800000000000000
+      internalID: -897859240108988340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa71ccd210e823e0800000000000000
+      internalID: -2078164856413783379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4ee2e7457c3430800000000000000
+      internalID: 3764012340185287629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecfb5779cfedefd0800000000000000
+      internalID: -2310927385201214231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac72fbdddf27fb0800000000000000
+      internalID: -4651376336283645221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad7dcfcf97258d60800000000000000
+      internalID: 7891757489376296361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09a4d8e84f9662b0800000000000000
+      internalID: -5591606751841179381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0b7798580f6bcd0800000000000000
+      internalID: -2542580483276427068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df8ace9d0275140800000000000000
+      internalID: 4708268055789632776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_Up_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf79c505537fafe0800000000000000
+      internalID: -1175594168713904211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sister_Up_0: -8211684669093211755
+      Sister_Up_1: -3778916302142321110
+      Sister_Up_10: 5379608808248703162
+      Sister_Up_11: -897859240108988340
+      Sister_Up_12: -2078164856413783379
+      Sister_Up_13: 3764012340185287629
+      Sister_Up_14: -2310927385201214231
+      Sister_Up_15: -4651376336283645221
+      Sister_Up_16: 7891757489376296361
+      Sister_Up_17: -5591606751841179381
+      Sister_Up_18: -2542580483276427068
+      Sister_Up_19: 4708268055789632776
+      Sister_Up_2: -3930483538275177949
+      Sister_Up_20: -1175594168713904211
+      Sister_Up_3: 5621907826374950564
+      Sister_Up_4: 8876833025343431766
+      Sister_Up_5: 2797651231061193081
+      Sister_Up_6: -8965792244796418310
+      Sister_Up_7: -4515113576718099604
+      Sister_Up_8: 1456010945092950037
+      Sister_Up_9: 3380412820805338282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

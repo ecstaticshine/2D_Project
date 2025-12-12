@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 073388fd75a8bfc4291501180dc492df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 589277891707709248
+    second: Attack_HandAxe_0
+  - first:
+      213: 347949371962126336
+    second: Attack_HandAxe_1
+  - first:
+      213: -9216666895259400352
+    second: Attack_HandAxe_2
+  - first:
+      213: 2216696017440449376
+    second: Attack_HandAxe_3
+  - first:
+      213: 2720749998819626394
+    second: Attack_HandAxe_4
+  - first:
+      213: -6239634773814901865
+    second: Attack_HandAxe_5
+  - first:
+      213: -7351128105083891176
+    second: Attack_HandAxe_6
+  - first:
+      213: 993984160921911699
+    second: Attack_HandAxe_7
+  - first:
+      213: -2481040863947123007
+    second: Attack_HandAxe_8
+  - first:
+      213: -2003542300899212214
+    second: Attack_HandAxe_9
+  - first:
+      213: 2242640731769847059
+    second: Attack_HandAxe_10
+  - first:
+      213: -4341084118830281898
+    second: Attack_HandAxe_11
+  - first:
+      213: 598761780812106429
+    second: Attack_HandAxe_12
+  - first:
+      213: -5175887015430759949
+    second: Attack_HandAxe_13
+  - first:
+      213: -3835536548166035509
+    second: Attack_HandAxe_14
+  - first:
+      213: -6942530782815948085
+    second: Attack_HandAxe_15
+  - first:
+      213: -802880529643655594
+    second: Attack_HandAxe_16
+  - first:
+      213: -2068260939420271288
+    second: Attack_HandAxe_17
+  - first:
+      213: 541936311675290973
+    second: Attack_HandAxe_18
+  - first:
+      213: -6439355126019985894
+    second: Attack_HandAxe_19
+  - first:
+      213: -6228578088013659137
+    second: Attack_HandAxe_20
+  - first:
+      213: 7946650577293104095
+    second: Attack_HandAxe_21
+  - first:
+      213: -3467661728913737397
+    second: Attack_HandAxe_22
+  - first:
+      213: 9146215732797985028
+    second: Attack_HandAxe_23
+  - first:
+      213: 3067094764524074043
+    second: Attack_HandAxe_24
+  - first:
+      213: -6248482310863149710
+    second: Attack_HandAxe_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_HandAxe_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047aa31de198d2800800000000000000
+      internalID: 589277891707709248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 139
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007f9b3c1a24d400800000000000000
+      internalID: 347949371962126336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06706fe6a42d71080800000000000000
+      internalID: -9216666895259400352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 140
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063af86884943ce10800000000000000
+      internalID: 2216696017440449376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 140
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dc94275bb02c520800000000000000
+      internalID: 2720749998819626394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 142
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79386927b3d5869a0800000000000000
+      internalID: -6239634773814901865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 140
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129516bfeb8bf990800000000000000
+      internalID: -7351128105083891176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918d18f3575bcd00800000000000000
+      internalID: 993984160921911699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 66
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61437ba72919dd0800000000000000
+      internalID: -2481040863947123007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 65
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a440f6e74ecf134e0800000000000000
+      internalID: -2003542300899212214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 66
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db6ff0dd57f1f10800000000000000
+      internalID: 2242640731769847059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 66
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b08057efe51c3c0800000000000000
+      internalID: -4341084118830281898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 66
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac262daaa3f4800800000000000000
+      internalID: 598761780812106429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 67
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f951b7be2e8b28b0800000000000000
+      internalID: -5175887015430759949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7198bb4df65cac0800000000000000
+      internalID: -3835536548166035509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc27a00490d27af90800000000000000
+      internalID: -6942530782815948085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e238189689bd4f0800000000000000
+      internalID: -802880529643655594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84df90b32af0c43e0800000000000000
+      internalID: -2068260939420271288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558a444438558700800000000000000
+      internalID: 541936311675290973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eecfa41a0d2a6a0800000000000000
+      internalID: -6439355126019985894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff30a28ba35af89a0800000000000000
+      internalID: -6228578088013659137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 18
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd355bdc89c284e60800000000000000
+      internalID: 7946650577293104095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 18
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4931eea70460efc0800000000000000
+      internalID: -3467661728913737397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 16
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401538010c2edee70800000000000000
+      internalID: 9146215732797985028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 16
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34faeb2072809a20800000000000000
+      internalID: 3067094764524074043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_HandAxe_25
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 18
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275a0b3b17ee849a0800000000000000
+      internalID: -6248482310863149710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_HandAxe_0: 589277891707709248
+      Attack_HandAxe_1: 347949371962126336
+      Attack_HandAxe_10: 2242640731769847059
+      Attack_HandAxe_11: -4341084118830281898
+      Attack_HandAxe_12: 598761780812106429
+      Attack_HandAxe_13: -5175887015430759949
+      Attack_HandAxe_14: -3835536548166035509
+      Attack_HandAxe_15: -6942530782815948085
+      Attack_HandAxe_16: -802880529643655594
+      Attack_HandAxe_17: -2068260939420271288
+      Attack_HandAxe_18: 541936311675290973
+      Attack_HandAxe_19: -6439355126019985894
+      Attack_HandAxe_2: -9216666895259400352
+      Attack_HandAxe_20: -6228578088013659137
+      Attack_HandAxe_21: 7946650577293104095
+      Attack_HandAxe_22: -3467661728913737397
+      Attack_HandAxe_23: 9146215732797985028
+      Attack_HandAxe_24: 3067094764524074043
+      Attack_HandAxe_25: -6248482310863149710
+      Attack_HandAxe_3: 2216696017440449376
+      Attack_HandAxe_4: 2720749998819626394
+      Attack_HandAxe_5: -6239634773814901865
+      Attack_HandAxe_6: -7351128105083891176
+      Attack_HandAxe_7: 993984160921911699
+      Attack_HandAxe_8: -2481040863947123007
+      Attack_HandAxe_9: -2003542300899212214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 6b7d72987b96fe54da38857cefc722d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2817952520543435176
+    second: Eliwood_Up_0
+  - first:
+      213: -5078504837513385289
+    second: Eliwood_Up_1
+  - first:
+      213: -2786918064511684377
+    second: Eliwood_Up_2
+  - first:
+      213: 261907524871467400
+    second: Eliwood_Up_3
+  - first:
+      213: -722016475327409611
+    second: Eliwood_Up_4
+  - first:
+      213: -6390511304968095173
+    second: Eliwood_Up_5
+  - first:
+      213: 3068381808392464210
+    second: Eliwood_Up_6
+  - first:
+      213: -6711386059127127976
+    second: Eliwood_Up_7
+  - first:
+      213: 6125076532546437807
+    second: Eliwood_Up_8
+  - first:
+      213: -6220332324290849345
+    second: Eliwood_Up_9
+  - first:
+      213: 446943199972103608
+    second: Eliwood_Up_10
+  - first:
+      213: 3416958721663826823
+    second: Eliwood_Up_11
+  - first:
+      213: 1670410467573456754
+    second: Eliwood_Up_12
+  - first:
+      213: -5471292367225185618
+    second: Eliwood_Up_13
+  - first:
+      213: -1286867438663292945
+    second: Eliwood_Up_14
+  - first:
+      213: 153041588970473187
+    second: Eliwood_Up_15
+  - first:
+      213: 6837534720710297627
+    second: Eliwood_Up_16
+  - first:
+      213: 6887106447118217338
+    second: Eliwood_Up_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eliwood_Up_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a978e423e06b1720800000000000000
+      internalID: 2817952520543435176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba69e1e1c68589b0800000000000000
+      internalID: -5078504837513385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 112
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e079aa39c0e259d0800000000000000
+      internalID: -2786918064511684377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88137f7918b72a300800000000000000
+      internalID: 261907524871467400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 82
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532512257d1eaf5f0800000000000000
+      internalID: -722016475327409611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a324693d75057a0800000000000000
+      internalID: -6390511304968095173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 80
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e08c6ff4159a20800000000000000
+      internalID: 3068381808392464210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 77
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850083b00fd5cd2a0800000000000000
+      internalID: -6711386059127127976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2038087a4a00550800000000000000
+      internalID: 6125076532546437807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb593c135b0fca9a0800000000000000
+      internalID: -6220332324290849345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51d1de87cd33600800000000000000
+      internalID: 446943199972103608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf1f08ad97b6f20800000000000000
+      internalID: 3416958721663826823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 45
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5fc4587d7e2710800000000000000
+      internalID: 1670410467573456754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9c3584901214b0800000000000000
+      internalID: -5471292367225185618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72575f1e0242ee0800000000000000
+      internalID: -1286867438663292945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6427aa386bf1200800000000000000
+      internalID: 153041588970473187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1846570a9dc3ee50800000000000000
+      internalID: 6837534720710297627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eliwood_Up_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 13
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b8cef2dae39f50800000000000000
+      internalID: 6887106447118217338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eliwood_Up_0: 2817952520543435176
+      Eliwood_Up_1: -5078504837513385289
+      Eliwood_Up_10: 446943199972103608
+      Eliwood_Up_11: 3416958721663826823
+      Eliwood_Up_12: 1670410467573456754
+      Eliwood_Up_13: -5471292367225185618
+      Eliwood_Up_14: -1286867438663292945
+      Eliwood_Up_15: 153041588970473187
+      Eliwood_Up_16: 6837534720710297627
+      Eliwood_Up_17: 6887106447118217338
+      Eliwood_Up_2: -2786918064511684377
+      Eliwood_Up_3: 261907524871467400
+      Eliwood_Up_4: -722016475327409611
+      Eliwood_Up_5: -6390511304968095173
+      Eliwood_Up_6: 3068381808392464210
+      Eliwood_Up_7: -6711386059127127976
+      Eliwood_Up_8: 6125076532546437807
+      Eliwood_Up_9: -6220332324290849345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

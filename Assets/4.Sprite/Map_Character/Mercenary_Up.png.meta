@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 662d7a234a3d2b543ab79a73634ed9fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2282834608626380704
+    second: Mercenary_Up_0
+  - first:
+      213: -1000859616899669416
+    second: Mercenary_Up_1
+  - first:
+      213: 2142680106724214223
+    second: Mercenary_Up_2
+  - first:
+      213: -2890430999939577105
+    second: Mercenary_Up_3
+  - first:
+      213: -8902788018815206361
+    second: Mercenary_Up_4
+  - first:
+      213: -8054109945232849561
+    second: Mercenary_Up_5
+  - first:
+      213: -1242612713798541846
+    second: Mercenary_Up_6
+  - first:
+      213: -5387104762514691707
+    second: Mercenary_Up_7
+  - first:
+      213: -6725033307330296840
+    second: Mercenary_Up_8
+  - first:
+      213: -7143820736911594256
+    second: Mercenary_Up_9
+  - first:
+      213: -2429035159961060165
+    second: Mercenary_Up_10
+  - first:
+      213: -3889806029355587955
+    second: Mercenary_Up_11
+  - first:
+      213: 5044261398960653917
+    second: Mercenary_Up_12
+  - first:
+      213: -1346442813086409524
+    second: Mercenary_Up_13
+  - first:
+      213: -3606106780514910102
+    second: Mercenary_Up_14
+  - first:
+      213: 1772385104313681509
+    second: Mercenary_Up_15
+  - first:
+      213: -4670339685319213398
+    second: Mercenary_Up_16
+  - first:
+      213: 1704367385240009819
+    second: Mercenary_Up_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mercenary_Up_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 116
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afa4284bf14eaf10800000000000000
+      internalID: 2282834608626380704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 116
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85269a03b7b3c12f0800000000000000
+      internalID: -1000859616899669416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 115
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c79464345cbd10800000000000000
+      internalID: 2142680106724214223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea03d8d15023e7d0800000000000000
+      internalID: -2890430999939577105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c7ae34771f27480800000000000000
+      internalID: -8902788018815206361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 83
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76584746dad0a3090800000000000000
+      internalID: -8054109945232849561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed57a8025a51cee0800000000000000
+      internalID: -1242612713798541846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 81
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892f76b2c82d35b0800000000000000
+      internalID: -5387104762514691707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f348e576d1eba2a0800000000000000
+      internalID: -6725033307330296840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fca05da3ec0cdc90800000000000000
+      internalID: -7143820736911594256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc369f34655a4ed0800000000000000
+      internalID: -2429035159961060165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86661f7602a40ac0800000000000000
+      internalID: -3889806029355587955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 49
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56c3474401d00640800000000000000
+      internalID: 5044261398960653917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc5b9f2569705de0800000000000000
+      internalID: -1346442813086409524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 20
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6008453df884fdc0800000000000000
+      internalID: -3606106780514910102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5668fc3acd6c89810800000000000000
+      internalID: 1772385104313681509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae732cfcce9f2fb0800000000000000
+      internalID: -4670339685319213398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary_Up_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 13
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cfdf35b1127a710800000000000000
+      internalID: 1704367385240009819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mercenary_Up_0: 2282834608626380704
+      Mercenary_Up_1: -1000859616899669416
+      Mercenary_Up_10: -2429035159961060165
+      Mercenary_Up_11: -3889806029355587955
+      Mercenary_Up_12: 5044261398960653917
+      Mercenary_Up_13: -1346442813086409524
+      Mercenary_Up_14: -3606106780514910102
+      Mercenary_Up_15: 1772385104313681509
+      Mercenary_Up_16: -4670339685319213398
+      Mercenary_Up_17: 1704367385240009819
+      Mercenary_Up_2: 2142680106724214223
+      Mercenary_Up_3: -2890430999939577105
+      Mercenary_Up_4: -8902788018815206361
+      Mercenary_Up_5: -8054109945232849561
+      Mercenary_Up_6: -1242612713798541846
+      Mercenary_Up_7: -5387104762514691707
+      Mercenary_Up_8: -6725033307330296840
+      Mercenary_Up_9: -7143820736911594256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Serra",
+    "BaseClassId": "Cleric",
+    "UnitName": "세라",
+    "Level": 3,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 17,
+        "Power": 3,
+        "Skill": 6,
+        "Spd": 8,
+        "Luck": 7,
+        "Def": 2,
+        "Res": 6,
+        "Move": 5,
+        "Con": 4,
+        "Aid": 3
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 50,
+        "PowerGrowth": 50,
+        "SkillGrowth": 30,
+        "SpdGrowth": 40,
+        "LuckGrowth": 60,
+        "DefGrowth": 15,
+        "ResGrowth": 55
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 6,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "Life",
+            "Durability": 30
+        },
+        {
+            "itemId": "Potion",
+            "Durability": 3
+        }
+    ]
+}

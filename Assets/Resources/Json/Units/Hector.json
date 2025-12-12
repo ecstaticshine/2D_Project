@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Hector",
+    "BaseClassId": "Lord",
+    "UnitName": "헥토르",
+    "Level": 6,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 24,
+        "Power": 9,
+        "Skill": 7,
+        "Spd": 6,
+        "Luck": 4,
+        "Def": 13,
+        "Res": 2,
+        "Move": 5,
+        "Con": 13,
+        "Aid": 12
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 90,
+        "PowerGrowth": 60,
+        "SkillGrowth": 45,
+        "SpdGrowth": 35,
+        "LuckGrowth": 30,
+        "DefGrowth": 50,
+        "ResGrowth": 25
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 2,
+            "Rank": "C",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronAxe",
+            "Durability": 46
+        },
+        {
+            "itemId": "ThrowAxe",
+            "Durability": 20
+        }
+    ]
+}

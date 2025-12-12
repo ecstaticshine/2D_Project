@@ -1,0 +1,50 @@
+﻿{
+    "UnitId": "Lowen",
+    "BaseClassId": "Cavalier",
+    "UnitName": "로웬",
+    "Level": 9,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 30,
+        "Power": 12,
+        "Skill": 10,
+        "Spd": 12,
+        "Luck": 7,
+        "Def": 10,
+        "Res": 2,
+        "Move": 7,
+        "Con": 10,
+        "Aid": 15
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 90,
+        "PowerGrowth": 30,
+        "SkillGrowth": 30,
+        "SpdGrowth": 30,
+        "LuckGrowth": 50,
+        "DefGrowth": 40,
+        "ResGrowth": 30
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "D",
+            "Exp": 0
+        },
+        {
+            "WeaponType": 1,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSpear",
+            "Durability": 46
+        },
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        }
+    ]
+}

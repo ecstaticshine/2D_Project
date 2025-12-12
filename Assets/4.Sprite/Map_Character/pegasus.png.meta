@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 4c6eb0631a231ac459b95db2ead6f08b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7050976213249645223
+    second: pegasus_0
+  - first:
+      213: 2738322898324419781
+    second: pegasus_1
+  - first:
+      213: 2402208079297051299
+    second: pegasus_2
+  - first:
+      213: -1654143898987169675
+    second: pegasus_3
+  - first:
+      213: -4051786350146827460
+    second: pegasus_4
+  - first:
+      213: 3852463876640893789
+    second: pegasus_5
+  - first:
+      213: 6312218829674135231
+    second: pegasus_6
+  - first:
+      213: -8076088503555902094
+    second: pegasus_7
+  - first:
+      213: -5487131724907712379
+    second: pegasus_8
+  - first:
+      213: -2964730137721548918
+    second: pegasus_9
+  - first:
+      213: -2885847566751398326
+    second: pegasus_10
+  - first:
+      213: -9184602448876928589
+    second: pegasus_11
+  - first:
+      213: -3509780736813501228
+    second: pegasus_12
+  - first:
+      213: 6300411007926936489
+    second: pegasus_13
+  - first:
+      213: 1250951870422797646
+    second: pegasus_14
+  - first:
+      213: -7813316113464915210
+    second: pegasus_15
+  - first:
+      213: -8651513786856125079
+    second: pegasus_16
+  - first:
+      213: 7395701254341170951
+    second: pegasus_17
+  - first:
+      213: 4765424264960748495
+    second: pegasus_18
+  - first:
+      213: -2555179307091480405
+    second: pegasus_19
+  - first:
+      213: 7915283630496164918
+    second: pegasus_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pegasus_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a681ed76e52e90800000000000000
+      internalID: -7050976213249645223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 108
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f1f2fa2a700620800000000000000
+      internalID: 2738322898324419781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 108
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaf21b458b565120800000000000000
+      internalID: 2402208079297051299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 106
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5787d7d43ec4b09e0800000000000000
+      internalID: -1654143898987169675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 76
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc8b528c925c7c0800000000000000
+      internalID: -4051786350146827460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b643d0c73b67530800000000000000
+      internalID: 3852463876640893789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 74
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe324ff491899750800000000000000
+      internalID: 6312218829674135231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753fe28b48fbef80800000000000000
+      internalID: -8076088503555902094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 76
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580791da4cac9d3b0800000000000000
+      internalID: -5487131724907712379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4636c5a92bd6d0800000000000000
+      internalID: -2964730137721548918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 46
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a468bdb8de863f7d0800000000000000
+      internalID: -2885847566751398326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1028f1cbcb98080800000000000000
+      internalID: -9184602448876928589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4f8b6f301ca4fc0800000000000000
+      internalID: -3509780736813501228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a322724e6e8f6750800000000000000
+      internalID: 6300411007926936489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 43
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d49ab29164c5110800000000000000
+      internalID: 1250951870422797646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa861b3466819390800000000000000
+      internalID: -7813316113464915210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 15
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dcb0d6c06afe780800000000000000
+      internalID: -8651513786856125079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079ae15b1fc2a660800000000000000
+      internalID: 7395701254341170951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb2305ee10322240800000000000000
+      internalID: 4765424264960748495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0326745fd2a8cd0800000000000000
+      internalID: -2555179307091480405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2034668cb8dd60800000000000000
+      internalID: 7915283630496164918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pegasus_0: -7050976213249645223
+      pegasus_1: 2738322898324419781
+      pegasus_10: -2885847566751398326
+      pegasus_11: -9184602448876928589
+      pegasus_12: -3509780736813501228
+      pegasus_13: 6300411007926936489
+      pegasus_14: 1250951870422797646
+      pegasus_15: -7813316113464915210
+      pegasus_16: -8651513786856125079
+      pegasus_17: 7395701254341170951
+      pegasus_18: 4765424264960748495
+      pegasus_19: -2555179307091480405
+      pegasus_2: 2402208079297051299
+      pegasus_20: 7915283630496164918
+      pegasus_3: -1654143898987169675
+      pegasus_4: -4051786350146827460
+      pegasus_5: 3852463876640893789
+      pegasus_6: 6312218829674135231
+      pegasus_7: -8076088503555902094
+      pegasus_8: -5487131724907712379
+      pegasus_9: -2964730137721548918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

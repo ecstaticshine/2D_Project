@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Bartre",
+    "BaseClassId": "Fighter",
+    "UnitName": "바아톨",
+    "Level": 7,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 33,
+        "Power": 10,
+        "Skill": 7,
+        "Spd": 6,
+        "Luck": 5,
+        "Def": 4,
+        "Res": 3,
+        "Move": 5,
+        "Con": 13,
+        "Aid": 12
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 85,
+        "PowerGrowth": 50,
+        "SkillGrowth": 35,
+        "SpdGrowth": 40,
+        "LuckGrowth": 30,
+        "DefGrowth": 30,
+        "ResGrowth": 25
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 2,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronAxe",
+            "Durability": 46
+        },
+        {
+            "itemId": "ThrowAxe",
+            "Durability": 20
+        }
+    ]
+}

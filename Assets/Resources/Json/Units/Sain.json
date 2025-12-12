@@ -1,0 +1,46 @@
+﻿{
+    "UnitId": "Sain",
+    "BaseClassId": "Cavalier",
+    "UnitName": "세인",
+    "Level": 5,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 22,
+        "Power": 10,
+        "Skill": 5,
+        "Spd": 7,
+        "Luck": 5,
+        "Def": 7,
+        "Res": 0,
+        "Move": 7,
+        "Con": 9,
+        "Aid": 16
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 80,
+        "PowerGrowth": 60,
+        "SkillGrowth": 35,
+        "SpdGrowth": 40,
+        "LuckGrowth": 35,
+        "DefGrowth": 20,
+        "ResGrowth": 20
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 1,
+            "Rank": "D",
+            "Exp": 0
+        },
+        {
+            "WeaponType": 0,
+            "Rank": "E",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSpear",
+            "Durability": 46
+        }
+    ]
+}

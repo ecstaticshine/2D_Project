@@ -1,0 +1,41 @@
+﻿{
+    "UnitId": "Wil",
+    "BaseClassId": "Archer",
+    "UnitName": "윌",
+    "Level": 4,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 21,
+        "Power": 6,
+        "Skill": 5,
+        "Spd": 6,
+        "Luck": 7,
+        "Def": 5,
+        "Res": 1,
+        "Move": 5,
+        "Con": 6,
+        "Aid": 5
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 75,
+        "PowerGrowth": 50,
+        "SkillGrowth": 50,
+        "SpdGrowth": 40,
+        "LuckGrowth": 40,
+        "DefGrowth": 20,
+        "ResGrowth": 25
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 3,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronBow",
+            "Durability": 46
+        }
+    ]
+}

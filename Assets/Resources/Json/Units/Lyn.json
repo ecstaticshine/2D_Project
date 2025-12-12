@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Lyn",
+    "BaseClassId": "Lord",
+    "UnitName": "린",
+    "Level": 4,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 18,
+        "Power": 5,
+        "Skill": 10,
+        "Spd": 11,
+        "Luck": 5,
+        "Def": 2,
+        "Res": 0,
+        "Move": 5,
+        "Con": 5,
+        "Aid": 4
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 70,
+        "PowerGrowth": 40,
+        "SkillGrowth": 60,
+        "SpdGrowth": 60,
+        "LuckGrowth": 55,
+        "DefGrowth": 20,
+        "ResGrowth": 30
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        },
+        {
+            "itemId": "LightSword",
+            "Durability": 30
+        }
+    ]
+}

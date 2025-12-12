@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 152338f41743257449a50d93c5e981cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7444332122315693064
+    second: Attack_Crit_0
+  - first:
+      213: -220706921218817911
+    second: Attack_Crit_1
+  - first:
+      213: -4597025889625720669
+    second: Attack_Crit_2
+  - first:
+      213: 1099309003882679564
+    second: Attack_Crit_3
+  - first:
+      213: -8121306692735931491
+    second: Attack_Crit_4
+  - first:
+      213: -2766197346152179852
+    second: Attack_Crit_5
+  - first:
+      213: 5330147503717725906
+    second: Attack_Crit_6
+  - first:
+      213: 3296990971530625173
+    second: Attack_Crit_7
+  - first:
+      213: -3589824508680811815
+    second: Attack_Crit_8
+  - first:
+      213: 748832333987301919
+    second: Attack_Crit_9
+  - first:
+      213: -8384632212127834044
+    second: Attack_Crit_10
+  - first:
+      213: -5119175712088030576
+    second: Attack_Crit_11
+  - first:
+      213: 454538926745188989
+    second: Attack_Crit_12
+  - first:
+      213: 4814273458145148242
+    second: Attack_Crit_13
+  - first:
+      213: 7542768309406788844
+    second: Attack_Crit_14
+  - first:
+      213: -742436675086191050
+    second: Attack_Crit_15
+  - first:
+      213: 4910540295403346089
+    second: Attack_Crit_16
+  - first:
+      213: -3514355944351166838
+    second: Attack_Crit_17
+  - first:
+      213: -7113508370321179348
+    second: Attack_Crit_18
+  - first:
+      213: -533383796986905407
+    second: Attack_Crit_19
+  - first:
+      213: -7130120510489866100
+    second: Attack_Crit_20
+  - first:
+      213: -351396497634807970
+    second: Attack_Crit_21
+  - first:
+      213: -6357919325464677398
+    second: Attack_Crit_22
+  - first:
+      213: -2828444139887142440
+    second: Attack_Crit_23
+  - first:
+      213: -7300154413699561127
+    second: Attack_Crit_24
+  - first:
+      213: -920524797119706469
+    second: Attack_Crit_25
+  - first:
+      213: -3490511407515879719
+    second: Attack_Crit_26
+  - first:
+      213: 8951242870161666174
+    second: Attack_Crit_27
+  - first:
+      213: -6000834914028782361
+    second: Attack_Crit_28
+  - first:
+      213: 2509296779617745194
+    second: Attack_Crit_29
+  - first:
+      213: -2446482277666569503
+    second: Attack_Crit_30
+  - first:
+      213: -7564190058814022608
+    second: Attack_Crit_31
+  - first:
+      213: 1199652719689726813
+    second: Attack_Crit_32
+  - first:
+      213: 5593383339392994084
+    second: Attack_Crit_33
+  - first:
+      213: -6192020983808655577
+    second: Attack_Crit_34
+  - first:
+      213: 5128324026596881366
+    second: Attack_Crit_35
+  - first:
+      213: 7495326412399352256
+    second: Attack_Crit_36
+  - first:
+      213: -1693294473438937763
+    second: Attack_Crit_37
+  - first:
+      213: 5378234509335507878
+    second: Attack_Crit_38
+  - first:
+      213: -3480392620060015174
+    second: Attack_Crit_39
+  - first:
+      213: 7083590733358832091
+    second: Attack_Crit_40
+  - first:
+      213: -4960770270981201945
+    second: Attack_Crit_41
+  - first:
+      213: 4435960620303942086
+    second: Attack_Crit_42
+  - first:
+      213: -7353137427813659457
+    second: Attack_Crit_43
+  - first:
+      213: 2623774314453466955
+    second: Attack_Crit_44
+  - first:
+      213: -4213914621113008126
+    second: Attack_Crit_45
+  - first:
+      213: 1466028982552809549
+    second: Attack_Crit_46
+  - first:
+      213: 8244280876799528343
+    second: Attack_Crit_47
+  - first:
+      213: -7958911372561322412
+    second: Attack_Crit_48
+  - first:
+      213: -547559353465921517
+    second: Attack_Crit_49
+  - first:
+      213: 54095839824658500
+    second: Attack_Crit_50
+  - first:
+      213: 2870633041022526558
+    second: Attack_Crit_51
+  - first:
+      213: -2726362058096892475
+    second: Attack_Crit_52
+  - first:
+      213: 4282814804006741462
+    second: Attack_Crit_53
+  - first:
+      213: 7454613583688535471
+    second: Attack_Crit_54
+  - first:
+      213: 5217185275705653044
+    second: Attack_Crit_55
+  - first:
+      213: 9042299806262967401
+    second: Attack_Crit_56
+  - first:
+      213: -721455697477343674
+    second: Attack_Crit_57
+  - first:
+      213: -1376244770385664781
+    second: Attack_Crit_58
+  - first:
+      213: 2388553139030364839
+    second: Attack_Crit_59
+  - first:
+      213: -8457635570420924656
+    second: Attack_Crit_60
+  - first:
+      213: -3149921584264508056
+    second: Attack_Crit_61
+  - first:
+      213: -3360573596863049149
+    second: Attack_Crit_62
+  - first:
+      213: 5822445842505843382
+    second: Attack_Crit_63
+  - first:
+      213: 4418097887944354814
+    second: Attack_Crit_64
+  - first:
+      213: 1934653139037714915
+    second: Attack_Crit_65
+  - first:
+      213: 4297213928647538445
+    second: Attack_Crit_66
+  - first:
+      213: 3503514011019928639
+    second: Attack_Crit_67
+  - first:
+      213: -9022580687141172665
+    second: Attack_Crit_68
+  - first:
+      213: -6552520822782504241
+    second: Attack_Crit_69
+  - first:
+      213: 2969052045800811648
+    second: Attack_Crit_70
+  - first:
+      213: 2748663663417287880
+    second: Attack_Crit_71
+  - first:
+      213: 4890293871437945292
+    second: Attack_Crit_72
+  - first:
+      213: -46565343789894526
+    second: Attack_Crit_73
+  - first:
+      213: 2483023624098538552
+    second: Attack_Crit_74
+  - first:
+      213: 4960459742085287823
+    second: Attack_Crit_75
+  - first:
+      213: 9014805556644569819
+    second: Attack_Crit_76
+  - first:
+      213: 5218923815938971605
+    second: Attack_Crit_77
+  - first:
+      213: -6241152469422201148
+    second: Attack_Crit_78
+  - first:
+      213: 6275876320595870685
+    second: Attack_Crit_79
+  - first:
+      213: 4843899530980550961
+    second: Attack_Crit_80
+  - first:
+      213: -7693769267077702973
+    second: Attack_Crit_81
+  - first:
+      213: 9181745443889753304
+    second: Attack_Crit_82
+  - first:
+      213: -2233890373773946184
+    second: Attack_Crit_83
+  - first:
+      213: -1819219810991509323
+    second: Attack_Crit_84
+  - first:
+      213: 4863668861642639338
+    second: Attack_Crit_85
+  - first:
+      213: -4078638912085490319
+    second: Attack_Crit_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_Crit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c18ac9f949f4760800000000000000
+      internalID: 7444332122315693064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 427
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98048497934efecf0800000000000000
+      internalID: -220706921218817911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 427
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b5993f451430c0800000000000000
+      internalID: -4597025889625720669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 427
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc0d2f6b7814f00800000000000000
+      internalID: 1099309003882679564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 427
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9be87b67925b4f80800000000000000
+      internalID: -8121306692735931491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 427
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47798fb6b2e7c99d0800000000000000
+      internalID: -2766197346152179852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 427
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6b78f0aec78f940800000000000000
+      internalID: 5330147503717725906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 427
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590c0c502d341cd20800000000000000
+      internalID: 3296990971530625173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 427
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac61a01a16e2ec0800000000000000
+      internalID: -3589824508680811815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 427
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac3af4a03646a00800000000000000
+      internalID: 748832333987301919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 427
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a2df3d6dc3ab80800000000000000
+      internalID: -8384632212127834044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 427
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928f2affc805f8b0800000000000000
+      internalID: -5119175712088030576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 427
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7afb31eeb8de4600800000000000000
+      internalID: 454538926745188989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d355cf33cbfc240800000000000000
+      internalID: 4814273458145148242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 364
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece34960db4da860800000000000000
+      internalID: 7542768309406788844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 364
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636f34117c552b5f0800000000000000
+      internalID: -742436675086191050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 364
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a812caa16eb52440800000000000000
+      internalID: 4910540295403346089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 364
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8aa273ef7a3fc0800000000000000
+      internalID: -3514355944351166838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 369
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dfc3083ddb74d90800000000000000
+      internalID: -7113508370321179348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 364
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc75ab334a0998f0800000000000000
+      internalID: -533383796986905407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 364
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8056863c29bc0d90800000000000000
+      internalID: -7130120510489866100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 364
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f29274fb69f1bf0800000000000000
+      internalID: -351396497634807970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 364
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae336172f0224c7a0800000000000000
+      internalID: -6357919325464677398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 378
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ddfe5a095fb8d0800000000000000
+      internalID: -2828444139887142440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 364
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95900f51d34a0ba90800000000000000
+      internalID: -7300154413699561127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 364
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9acdbcf293a933f0800000000000000
+      internalID: -920524797119706469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 364
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6319e4e563f8fc0800000000000000
+      internalID: -3490511407515879719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 301
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70fb36f6f3393c70800000000000000
+      internalID: 8951242870161666174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 301
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec7d818070c8bca0800000000000000
+      internalID: -6000834914028782361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 301
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b5215020d2d220800000000000000
+      internalID: 2509296779617745194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 301
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2456a94595c0ed0800000000000000
+      internalID: -2446482277666569503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 301
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c59d2e739960790800000000000000
+      internalID: -7564190058814022608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 301
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bffe2eac506a010800000000000000
+      internalID: 1199652719689726813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 301
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b8b1d1380bf9d40800000000000000
+      internalID: 5593383339392994084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_34
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 301
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff152d8b5811aa0800000000000000
+      internalID: -6192020983808655577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 301
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3786af7877b2740800000000000000
+      internalID: 5128324026596881366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 301
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99aaef8afb40860800000000000000
+      internalID: 7495326412399352256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d3a8ad5a53088e0800000000000000
+      internalID: -1693294473438937763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 247
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b0b78ac353aa40800000000000000
+      internalID: 5378234509335507878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 248
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58e6a1a5923bfc0800000000000000
+      internalID: -3480392620060015174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 247
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91a14dd38fd4260800000000000000
+      internalID: 7083590733358832091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 247
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd8d9c8bdc72bb0800000000000000
+      internalID: -4960770270981201945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c186d27ea2bf8d30800000000000000
+      internalID: 4435960620303942086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 247
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc898ec77864f990800000000000000
+      internalID: -7353137427813659457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 247
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffacf66d4896420800000000000000
+      internalID: 2623774314453466955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000cb67afa2585c0800000000000000
+      internalID: -4213914621113008126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40dc7f9791685410800000000000000
+      internalID: 1466028982552809549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8e2207c1996270800000000000000
+      internalID: 8244280876799528343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 203
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6aa756444c8190800000000000000
+      internalID: -7958911372561322412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_49
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 208
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a83b4bada668f0800000000000000
+      internalID: -547559353465921517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_50
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 209
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440439431ef20c000800000000000000
+      internalID: 54095839824658500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54a5a2aa8986d720800000000000000
+      internalID: 2870633041022526558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_52
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 202
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5280e27240a2ad0800000000000000
+      internalID: -2726362058096892475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 201
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52b977f5d9f6b30800000000000000
+      internalID: 4282814804006741462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 205
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad8e81ee8b147760800000000000000
+      internalID: 7454613583688535471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 202
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43775ddcd5a276840800000000000000
+      internalID: 5217185275705653044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c33e004c3bc7d70800000000000000
+      internalID: 9042299806262967401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6466ea69ddfdcf5f0800000000000000
+      internalID: -721455697477343674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46c294ca896ece0800000000000000
+      internalID: -1376244770385664781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a29c03cc68d52120800000000000000
+      internalID: 2388553139030364839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_60
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3a59524170aa80800000000000000
+      internalID: -8457635570420924656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0493120b3944d0800000000000000
+      internalID: -3149921584264508056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342db656e18dc51d0800000000000000
+      internalID: -3360573596863049149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c28625ab7dc050800000000000000
+      internalID: 5822445842505843382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba3d9fe9c305d30800000000000000
+      internalID: 4418097887944354814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ffeb97c449da10800000000000000
+      internalID: 1934653139037714915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 96
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b5ecec45c2ab30800000000000000
+      internalID: 4297213928647538445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34627c3e6bfe9030800000000000000
+      internalID: 3503514011019928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 77
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a86a13baa59c280800000000000000
+      internalID: -9022580687141172665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2d2b64705c015a0800000000000000
+      internalID: -6552520822782504241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 62
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08caa9dda11343920800000000000000
+      internalID: 2969052045800811648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e201f907352620800000000000000
+      internalID: 2748663663417287880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 53
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9145ebd50ddd340800000000000000
+      internalID: 4890293871437945292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 53
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2843f8801119a5ff0800000000000000
+      internalID: -46565343789894526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834eb4b94d8757220800000000000000
+      internalID: 2483023624098538552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 53
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f8e919ad717d440800000000000000
+      internalID: 4960459742085287823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 53
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2640b24e50b1d70800000000000000
+      internalID: 9014805556644569819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d75ede3f875d6840800000000000000
+      internalID: 5218923815938971605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_78
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 53
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a90765e8f269a0800000000000000
+      internalID: -6241152469422201148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 53
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd307673344681750800000000000000
+      internalID: 6275876320595870685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_80
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 53
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139e6c795fcf83340800000000000000
+      internalID: 4843899530980550961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca140c6d9d3a3590800000000000000
+      internalID: -7693769267077702973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc2c1195dc1c6f70800000000000000
+      internalID: 9181745443889753304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21a0c6a80aff0e0800000000000000
+      internalID: -2233890373773946184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_84
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b07f757835d0c6e0800000000000000
+      internalID: -1819219810991509323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae786539f093f7340800000000000000
+      internalID: 4863668861642639338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_Crit_86
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750f0ed483c567c0800000000000000
+      internalID: -4078638912085490319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_Crit_0: 7444332122315693064
+      Attack_Crit_1: -220706921218817911
+      Attack_Crit_10: -8384632212127834044
+      Attack_Crit_11: -5119175712088030576
+      Attack_Crit_12: 454538926745188989
+      Attack_Crit_13: 4814273458145148242
+      Attack_Crit_14: 7542768309406788844
+      Attack_Crit_15: -742436675086191050
+      Attack_Crit_16: 4910540295403346089
+      Attack_Crit_17: -3514355944351166838
+      Attack_Crit_18: -7113508370321179348
+      Attack_Crit_19: -533383796986905407
+      Attack_Crit_2: -4597025889625720669
+      Attack_Crit_20: -7130120510489866100
+      Attack_Crit_21: -351396497634807970
+      Attack_Crit_22: -6357919325464677398
+      Attack_Crit_23: -2828444139887142440
+      Attack_Crit_24: -7300154413699561127
+      Attack_Crit_25: -920524797119706469
+      Attack_Crit_26: -3490511407515879719
+      Attack_Crit_27: 8951242870161666174
+      Attack_Crit_28: -6000834914028782361
+      Attack_Crit_29: 2509296779617745194
+      Attack_Crit_3: 1099309003882679564
+      Attack_Crit_30: -2446482277666569503
+      Attack_Crit_31: -7564190058814022608
+      Attack_Crit_32: 1199652719689726813
+      Attack_Crit_33: 5593383339392994084
+      Attack_Crit_34: -6192020983808655577
+      Attack_Crit_35: 5128324026596881366
+      Attack_Crit_36: 7495326412399352256
+      Attack_Crit_37: -1693294473438937763
+      Attack_Crit_38: 5378234509335507878
+      Attack_Crit_39: -3480392620060015174
+      Attack_Crit_4: -8121306692735931491
+      Attack_Crit_40: 7083590733358832091
+      Attack_Crit_41: -4960770270981201945
+      Attack_Crit_42: 4435960620303942086
+      Attack_Crit_43: -7353137427813659457
+      Attack_Crit_44: 2623774314453466955
+      Attack_Crit_45: -4213914621113008126
+      Attack_Crit_46: 1466028982552809549
+      Attack_Crit_47: 8244280876799528343
+      Attack_Crit_48: -7958911372561322412
+      Attack_Crit_49: -547559353465921517
+      Attack_Crit_5: -2766197346152179852
+      Attack_Crit_50: 54095839824658500
+      Attack_Crit_51: 2870633041022526558
+      Attack_Crit_52: -2726362058096892475
+      Attack_Crit_53: 4282814804006741462
+      Attack_Crit_54: 7454613583688535471
+      Attack_Crit_55: 5217185275705653044
+      Attack_Crit_56: 9042299806262967401
+      Attack_Crit_57: -721455697477343674
+      Attack_Crit_58: -1376244770385664781
+      Attack_Crit_59: 2388553139030364839
+      Attack_Crit_6: 5330147503717725906
+      Attack_Crit_60: -8457635570420924656
+      Attack_Crit_61: -3149921584264508056
+      Attack_Crit_62: -3360573596863049149
+      Attack_Crit_63: 5822445842505843382
+      Attack_Crit_64: 4418097887944354814
+      Attack_Crit_65: 1934653139037714915
+      Attack_Crit_66: 4297213928647538445
+      Attack_Crit_67: 3503514011019928639
+      Attack_Crit_68: -9022580687141172665
+      Attack_Crit_69: -6552520822782504241
+      Attack_Crit_7: 3296990971530625173
+      Attack_Crit_70: 2969052045800811648
+      Attack_Crit_71: 2748663663417287880
+      Attack_Crit_72: 4890293871437945292
+      Attack_Crit_73: -46565343789894526
+      Attack_Crit_74: 2483023624098538552
+      Attack_Crit_75: 4960459742085287823
+      Attack_Crit_76: 9014805556644569819
+      Attack_Crit_77: 5218923815938971605
+      Attack_Crit_78: -6241152469422201148
+      Attack_Crit_79: 6275876320595870685
+      Attack_Crit_8: -3589824508680811815
+      Attack_Crit_80: 4843899530980550961
+      Attack_Crit_81: -7693769267077702973
+      Attack_Crit_82: 9181745443889753304
+      Attack_Crit_83: -2233890373773946184
+      Attack_Crit_84: -1819219810991509323
+      Attack_Crit_85: 4863668861642639338
+      Attack_Crit_86: -4078638912085490319
+      Attack_Crit_9: 748832333987301919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Matthew",
+    "BaseClassId": "Thief",
+    "UnitName": "메튜",
+    "Level": 4,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 19,
+        "Power": 5,
+        "Skill": 5,
+        "Spd": 13,
+        "Luck": 4,
+        "Def": 4,
+        "Res": 0,
+        "Move": 6,
+        "Con": 7,
+        "Aid": 6
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 75,
+        "PowerGrowth": 30,
+        "SkillGrowth": 40,
+        "SpdGrowth": 70,
+        "LuckGrowth": 50,
+        "DefGrowth": 25,
+        "ResGrowth": 20
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        },
+        {
+            "itemId": "ThiefKey",
+            "Durability": 15
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "UnitId": "Kent",
+    "BaseClassId": "Cavalier",
+    "UnitName": "켄트",
+    "Level": 6,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 23,
+        "Power": 9,
+        "Skill": 8,
+        "Spd": 8,
+        "Luck": 4,
+        "Def": 6,
+        "Res": 2,
+        "Move": 7,
+        "Con": 9,
+        "Aid": 16
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 85,
+        "PowerGrowth": 40,
+        "SkillGrowth": 50,
+        "SpdGrowth": 45,
+        "LuckGrowth": 20,
+        "DefGrowth": 25,
+        "ResGrowth": 25
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "D",
+            "Exp": 0
+        },
+        {
+            "WeaponType": 1,
+            "Rank": "E",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "SteelSword",
+            "Durability": 30
+        }
+    ]
+}

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: a41c2367e23002e488b3c6f6e649f498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4145382667649995897
+    second: Troubadour_0
+  - first:
+      213: -4860859623869714499
+    second: Troubadour_1
+  - first:
+      213: -3242059843803074728
+    second: Troubadour_2
+  - first:
+      213: 5982438150390997813
+    second: Troubadour_3
+  - first:
+      213: 2833253300792673776
+    second: Troubadour_4
+  - first:
+      213: 3864920858131310126
+    second: Troubadour_5
+  - first:
+      213: -8342182487389106736
+    second: Troubadour_6
+  - first:
+      213: -403553401714106623
+    second: Troubadour_7
+  - first:
+      213: -6554816210399906210
+    second: Troubadour_8
+  - first:
+      213: -8475514319093854228
+    second: Troubadour_9
+  - first:
+      213: -1292622590190942831
+    second: Troubadour_10
+  - first:
+      213: -2645555320277341834
+    second: Troubadour_11
+  - first:
+      213: 6931030098303648886
+    second: Troubadour_12
+  - first:
+      213: 2963359570341086865
+    second: Troubadour_13
+  - first:
+      213: 5351855364602730588
+    second: Troubadour_14
+  - first:
+      213: 4982580712950380942
+    second: Troubadour_15
+  - first:
+      213: 472418554513138484
+    second: Troubadour_16
+  - first:
+      213: -3407677659433114254
+    second: Troubadour_17
+  - first:
+      213: 3221929604476867170
+    second: Troubadour_18
+  - first:
+      213: 5625021625313092599
+    second: Troubadour_19
+  - first:
+      213: 2777936355693241086
+    second: Troubadour_20
+  - first:
+      213: 6971096348253017050
+    second: Troubadour_21
+  - first:
+      213: -3771827875403700816
+    second: Troubadour_22
+  - first:
+      213: 5988126123490381841
+    second: Troubadour_23
+  - first:
+      213: -5269533631044799819
+    second: Troubadour_24
+  - first:
+      213: 809886585099634883
+    second: Troubadour_25
+  - first:
+      213: 6623999952874745154
+    second: Troubadour_26
+  - first:
+      213: -8709310153539872679
+    second: Troubadour_27
+  - first:
+      213: -8051941530118824551
+    second: Troubadour_28
+  - first:
+      213: 3642964272086432383
+    second: Troubadour_29
+  - first:
+      213: 2470801715815132898
+    second: Troubadour_30
+  - first:
+      213: 5029274924421505811
+    second: Troubadour_31
+  - first:
+      213: 1690501911160924394
+    second: Troubadour_32
+  - first:
+      213: 8591926653960100197
+    second: Troubadour_33
+  - first:
+      213: 1032518875839238526
+    second: Troubadour_34
+  - first:
+      213: 5027051253418327967
+    second: Troubadour_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Troubadour_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 214
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b29ac4d64a876c0800000000000000
+      internalID: -4145382667649995897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 214
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe4301de1ca8cb0800000000000000
+      internalID: -4860859623869714499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 214
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f2f8dcfb3e103d0800000000000000
+      internalID: -3242059843803074728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 214
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533eccc2dc3e50350800000000000000
+      internalID: 5982438150390997813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 214
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f54378addcb15720800000000000000
+      internalID: 2833253300792673776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 214
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262ae11b05f2a530800000000000000
+      internalID: 3864920858131310126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 214
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd00bbf93d9a3c80800000000000000
+      internalID: -8342182487389106736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1eeab15a466af0800000000000000
+      internalID: -403553401714106623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e563423b26d9805a0800000000000000
+      internalID: -6554816210399906210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8ca9c1ace06a80800000000000000
+      internalID: -8475514319093854228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 145
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19506035a9eaf0ee0800000000000000
+      internalID: -1292622590190942831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6796935f379194bd0800000000000000
+      internalID: -2645555320277341834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 145
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740ee8f627ff2060800000000000000
+      internalID: 6931030098303648886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 145
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964fe324d7ff1920800000000000000
+      internalID: 2963359570341086865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 145
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c581a68491c954a40800000000000000
+      internalID: 5351855364602730588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89be1472cea52540800000000000000
+      internalID: 4982580712950380942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4332f0f1c2e5e8600800000000000000
+      internalID: 472418554513138484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2756470393f75b0d0800000000000000
+      internalID: -3407677659433114254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 89
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262982e97e796bc20800000000000000
+      internalID: 3221929604476867170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 89
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36da69d57101e40800000000000000
+      internalID: 5625021625313092599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 89
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef22db9b5663d8620800000000000000
+      internalID: 2777936355693241086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 83
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d4acb13f4eb060800000000000000
+      internalID: 6971096348253017050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b565a40886c7abc0800000000000000
+      internalID: -3771827875403700816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11091ec9bf81a1350800000000000000
+      internalID: 5988126123490381841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 64
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2b99de41bded6b0800000000000000
+      internalID: -5269533631044799819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c735ee8b4d3b00800000000000000
+      internalID: 809886585099634883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 47
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dad479cdc2deb50800000000000000
+      internalID: 6623999952874745154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9589d8b2f80522780800000000000000
+      internalID: -8709310153539872679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5d01e6d1c14090800000000000000
+      internalID: -8051941530118824551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 34
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab62744b86e8230800000000000000
+      internalID: 3642964272086432383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 34
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2695d11d0a4220800000000000000
+      internalID: 2470801715815132898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136ce3c5e29bc540800000000000000
+      internalID: 5029274924421505811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8add2188ed57710800000000000000
+      internalID: 1690501911160924394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569908115c7ac3770800000000000000
+      internalID: 8591926653960100197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719842727e345e00800000000000000
+      internalID: 1032518875839238526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troubadour_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7ea30b7ca3c540800000000000000
+      internalID: 5027051253418327967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Troubadour_0: -4145382667649995897
+      Troubadour_1: -4860859623869714499
+      Troubadour_10: -1292622590190942831
+      Troubadour_11: -2645555320277341834
+      Troubadour_12: 6931030098303648886
+      Troubadour_13: 2963359570341086865
+      Troubadour_14: 5351855364602730588
+      Troubadour_15: 4982580712950380942
+      Troubadour_16: 472418554513138484
+      Troubadour_17: -3407677659433114254
+      Troubadour_18: 3221929604476867170
+      Troubadour_19: 5625021625313092599
+      Troubadour_2: -3242059843803074728
+      Troubadour_20: 2777936355693241086
+      Troubadour_21: 6971096348253017050
+      Troubadour_22: -3771827875403700816
+      Troubadour_23: 5988126123490381841
+      Troubadour_24: -5269533631044799819
+      Troubadour_25: 809886585099634883
+      Troubadour_26: 6623999952874745154
+      Troubadour_27: -8709310153539872679
+      Troubadour_28: -8051941530118824551
+      Troubadour_29: 3642964272086432383
+      Troubadour_3: 5982438150390997813
+      Troubadour_30: 2470801715815132898
+      Troubadour_31: 5029274924421505811
+      Troubadour_32: 1690501911160924394
+      Troubadour_33: 8591926653960100197
+      Troubadour_34: 1032518875839238526
+      Troubadour_35: 5027051253418327967
+      Troubadour_4: 2833253300792673776
+      Troubadour_5: 3864920858131310126
+      Troubadour_6: -8342182487389106736
+      Troubadour_7: -403553401714106623
+      Troubadour_8: -6554816210399906210
+      Troubadour_9: -8475514319093854228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: e65359462d6792a4f8be6033715ddf85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3463871614671906123
+    second: Archer_Female_Up_0
+  - first:
+      213: 1810442588942462055
+    second: Archer_Female_Up_1
+  - first:
+      213: 1784913645036864680
+    second: Archer_Female_Up_2
+  - first:
+      213: 5372866032395427799
+    second: Archer_Female_Up_3
+  - first:
+      213: 4970069604447972824
+    second: Archer_Female_Up_4
+  - first:
+      213: -418732548655200647
+    second: Archer_Female_Up_5
+  - first:
+      213: 5407208257320891298
+    second: Archer_Female_Up_6
+  - first:
+      213: -5411949581963757882
+    second: Archer_Female_Up_7
+  - first:
+      213: -7129636470031254704
+    second: Archer_Female_Up_8
+  - first:
+      213: -376149263338226371
+    second: Archer_Female_Up_9
+  - first:
+      213: 2424501394288633190
+    second: Archer_Female_Up_10
+  - first:
+      213: 5855671263167359926
+    second: Archer_Female_Up_11
+  - first:
+      213: -3792290953921854858
+    second: Archer_Female_Up_12
+  - first:
+      213: -2769381228537928456
+    second: Archer_Female_Up_13
+  - first:
+      213: -8162807711326783289
+    second: Archer_Female_Up_14
+  - first:
+      213: -8440210952977603028
+    second: Archer_Female_Up_15
+  - first:
+      213: -3681133049303414700
+    second: Archer_Female_Up_16
+  - first:
+      213: -5746318066054761119
+    second: Archer_Female_Up_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archer_Female_Up_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1ceb6e1bddefc0800000000000000
+      internalID: -3463871614671906123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 115
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c672841fbff1910800000000000000
+      internalID: 1810442588942462055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 114
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a48b27d08945c810800000000000000
+      internalID: 1784913645036864680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df11b69031409a40800000000000000
+      internalID: 5372866032395427799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 83
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd661209fb39f440800000000000000
+      internalID: 4970069604447972824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 83
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976438d27fc503af0800000000000000
+      internalID: -418732548655200647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 82
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3bb2ce2434a0b40800000000000000
+      internalID: 5407208257320891298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f9b86784e4e4b0800000000000000
+      internalID: -5411949581963757882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bfd1aa7617e0d90800000000000000
+      internalID: -7129636470031254704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3338ec36a7caf0800000000000000
+      internalID: -376149263338226371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665630c2c2f85a120800000000000000
+      internalID: 2424501394288633190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbad8a3df5834150800000000000000
+      internalID: 5855671263167359926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728f8648731f5bc0800000000000000
+      internalID: -3792290953921854858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ac59027e2199d0800000000000000
+      internalID: -2769381228537928456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83c8c82a1e7be80800000000000000
+      internalID: -8162807711326783289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a86e3bd85eda80800000000000000
+      internalID: -8440210952977603028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c151cefcf9ecc0800000000000000
+      internalID: -3681133049303414700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Female_Up_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 15
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165756a0a2af040b0800000000000000
+      internalID: -5746318066054761119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archer_Female_Up_0: -3463871614671906123
+      Archer_Female_Up_1: 1810442588942462055
+      Archer_Female_Up_10: 2424501394288633190
+      Archer_Female_Up_11: 5855671263167359926
+      Archer_Female_Up_12: -3792290953921854858
+      Archer_Female_Up_13: -2769381228537928456
+      Archer_Female_Up_14: -8162807711326783289
+      Archer_Female_Up_15: -8440210952977603028
+      Archer_Female_Up_16: -3681133049303414700
+      Archer_Female_Up_17: -5746318066054761119
+      Archer_Female_Up_2: 1784913645036864680
+      Archer_Female_Up_3: 5372866032395427799
+      Archer_Female_Up_4: 4970069604447972824
+      Archer_Female_Up_5: -418732548655200647
+      Archer_Female_Up_6: 5407208257320891298
+      Archer_Female_Up_7: -5411949581963757882
+      Archer_Female_Up_8: -7129636470031254704
+      Archer_Female_Up_9: -376149263338226371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+﻿{
+    "UnitId": "Florina",
+    "BaseClassId": "PegasusKnight",
+    "UnitName": "플로리나",
+    "Level": 5,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 18,
+        "Power": 7,
+        "Skill": 10,
+        "Spd": 11,
+        "Luck": 9,
+        "Def": 5,
+        "Res": 7,
+        "Move": 7,
+        "Con": 4,
+        "Aid": 16
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 60,
+        "PowerGrowth": 40,
+        "SkillGrowth": 50,
+        "SpdGrowth": 55,
+        "LuckGrowth": 50,
+        "DefGrowth": 15,
+        "ResGrowth": 35
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 1,
+            "Rank": "D",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "LightSpear",
+            "Durability": 30
+        }
+    ]
+}

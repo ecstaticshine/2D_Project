@@ -1,0 +1,5564 @@
+fileFormatVersion: 2
+guid: a1d8bb3c3c1bde54c98d1331d8d2c273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6609512310763372409
+    second: Lord2-2_0
+  - first:
+      213: -1030371921259063466
+    second: Lord2-2_1
+  - first:
+      213: 3048835974777449336
+    second: Lord2-2_2
+  - first:
+      213: -5316129837746516478
+    second: Lord2-2_3
+  - first:
+      213: -4874139287763105019
+    second: Lord2-2_4
+  - first:
+      213: 2190402416315814334
+    second: Lord2-2_5
+  - first:
+      213: 6893316316964159200
+    second: Lord2-2_6
+  - first:
+      213: 5515670955664669175
+    second: Lord2-2_7
+  - first:
+      213: 2837390663855014606
+    second: Lord2-2_8
+  - first:
+      213: -1240987698732324763
+    second: Lord2-2_9
+  - first:
+      213: -302838432410778328
+    second: Lord2-2_10
+  - first:
+      213: 6738821650055608259
+    second: Lord2-2_11
+  - first:
+      213: 2766781578522265599
+    second: Lord2-2_12
+  - first:
+      213: -4474202171595245301
+    second: Lord2-2_13
+  - first:
+      213: -7600219655971322566
+    second: Lord2-2_14
+  - first:
+      213: -7773618459842787305
+    second: Lord2-2_15
+  - first:
+      213: -3798494441801020365
+    second: Lord2-2_16
+  - first:
+      213: -3177211978936323950
+    second: Lord2-2_17
+  - first:
+      213: 7262960148022066611
+    second: Lord2-2_18
+  - first:
+      213: 828732153462600034
+    second: Lord2-2_19
+  - first:
+      213: -4131177303294422789
+    second: Lord2-2_20
+  - first:
+      213: 7624201622995769633
+    second: Lord2-2_21
+  - first:
+      213: -959070634860351075
+    second: Lord2-2_22
+  - first:
+      213: 7240635460181688121
+    second: Lord2-2_23
+  - first:
+      213: 542326109804316837
+    second: Lord2-2_24
+  - first:
+      213: -1255833097155223187
+    second: Lord2-2_25
+  - first:
+      213: 2082662447414059812
+    second: Lord2-2_26
+  - first:
+      213: -9056167181318144005
+    second: Lord2-2_27
+  - first:
+      213: -6958624362194704770
+    second: Lord2-2_28
+  - first:
+      213: 46460133594083218
+    second: Lord2-2_29
+  - first:
+      213: 3150495374400068741
+    second: Lord2-2_30
+  - first:
+      213: 5951373342914799623
+    second: Lord2-2_31
+  - first:
+      213: 3764601357574320654
+    second: Lord2-2_32
+  - first:
+      213: -3395501843815486314
+    second: Lord2-2_33
+  - first:
+      213: 7609100327672657941
+    second: Lord2-2_34
+  - first:
+      213: -4134057207286137356
+    second: Lord2-2_35
+  - first:
+      213: -9046530290152738499
+    second: Lord2-2_36
+  - first:
+      213: -2240904890754432185
+    second: Lord2-2_37
+  - first:
+      213: 1898247359814386770
+    second: Lord2-2_38
+  - first:
+      213: -491668540002675152
+    second: Lord2-2_39
+  - first:
+      213: 3654131389072324417
+    second: Lord2-2_40
+  - first:
+      213: 6332170892963809091
+    second: Lord2-2_41
+  - first:
+      213: 2487368135470918526
+    second: Lord2-2_42
+  - first:
+      213: -1573664603319322165
+    second: Lord2-2_43
+  - first:
+      213: -668283891888291943
+    second: Lord2-2_44
+  - first:
+      213: 1135551964673481447
+    second: Lord2-2_45
+  - first:
+      213: 3665034573994339976
+    second: Lord2-2_46
+  - first:
+      213: 7025268408561941609
+    second: Lord2-2_47
+  - first:
+      213: 3764923591498760311
+    second: Lord2-2_48
+  - first:
+      213: 7310934492000969289
+    second: Lord2-2_49
+  - first:
+      213: 375818407609012193
+    second: Lord2-2_50
+  - first:
+      213: 825377025946052542
+    second: Lord2-2_51
+  - first:
+      213: -3458261198494240814
+    second: Lord2-2_52
+  - first:
+      213: 6912539043556603162
+    second: Lord2-2_53
+  - first:
+      213: -9098623379712133515
+    second: Lord2-2_54
+  - first:
+      213: 2378735069938214049
+    second: Lord2-2_55
+  - first:
+      213: -8690757988650988701
+    second: Lord2-2_56
+  - first:
+      213: 2360068515627025644
+    second: Lord2-2_57
+  - first:
+      213: -5462340952073147905
+    second: Lord2-2_58
+  - first:
+      213: -6719130092596779567
+    second: Lord2-2_59
+  - first:
+      213: -6278584502544020178
+    second: Lord2-2_60
+  - first:
+      213: 8383293744013330898
+    second: Lord2-2_61
+  - first:
+      213: -3949217540565879063
+    second: Lord2-2_62
+  - first:
+      213: 8384958466234875961
+    second: Lord2-2_63
+  - first:
+      213: -2389271683307914139
+    second: Lord2-2_64
+  - first:
+      213: -2100636972517119634
+    second: Lord2-2_65
+  - first:
+      213: -4339287821877223816
+    second: Lord2-2_66
+  - first:
+      213: -4530357593808826540
+    second: Lord2-2_67
+  - first:
+      213: -3684634816813153913
+    second: Lord2-2_68
+  - first:
+      213: -4687258503255084032
+    second: Lord2-2_69
+  - first:
+      213: -2190187952311022424
+    second: Lord2-2_70
+  - first:
+      213: -826494722907816851
+    second: Lord2-2_71
+  - first:
+      213: -4086820393802818451
+    second: Lord2-2_72
+  - first:
+      213: -6805678365960969605
+    second: Lord2-2_73
+  - first:
+      213: 6261939711311232615
+    second: Lord2-2_74
+  - first:
+      213: -3112759473062380456
+    second: Lord2-2_75
+  - first:
+      213: -714013760220541381
+    second: Lord2-2_76
+  - first:
+      213: 3789097267391689689
+    second: Lord2-2_77
+  - first:
+      213: 1337344638784457071
+    second: Lord2-2_78
+  - first:
+      213: -6034278636320781912
+    second: Lord2-2_79
+  - first:
+      213: -4370011777471893643
+    second: Lord2-2_80
+  - first:
+      213: -2501500321126967241
+    second: Lord2-2_81
+  - first:
+      213: 220187952661389717
+    second: Lord2-2_82
+  - first:
+      213: -340532334948925317
+    second: Lord2-2_83
+  - first:
+      213: -3161367293443649154
+    second: Lord2-2_84
+  - first:
+      213: 4751813214824095614
+    second: Lord2-2_85
+  - first:
+      213: -7178357948940645503
+    second: Lord2-2_86
+  - first:
+      213: 972276483868193333
+    second: Lord2-2_87
+  - first:
+      213: 8351799047079705802
+    second: Lord2-2_88
+  - first:
+      213: 686595147381255762
+    second: Lord2-2_89
+  - first:
+      213: -7369167199032508465
+    second: Lord2-2_90
+  - first:
+      213: 5039096172632840258
+    second: Lord2-2_91
+  - first:
+      213: 4732391045091881256
+    second: Lord2-2_92
+  - first:
+      213: 7962818783256377978
+    second: Lord2-2_93
+  - first:
+      213: -6099709986301707130
+    second: Lord2-2_94
+  - first:
+      213: -8141118894666911979
+    second: Lord2-2_95
+  - first:
+      213: -5977417484438449814
+    second: Lord2-2_96
+  - first:
+      213: -727607223179403512
+    second: Lord2-2_97
+  - first:
+      213: -1625942805019865559
+    second: Lord2-2_98
+  - first:
+      213: -1303053472334131746
+    second: Lord2-2_99
+  - first:
+      213: 2799172342517098913
+    second: Lord2-2_100
+  - first:
+      213: -237774051590065564
+    second: Lord2-2_101
+  - first:
+      213: -1476398511340540242
+    second: Lord2-2_102
+  - first:
+      213: 4770742967845276248
+    second: Lord2-2_103
+  - first:
+      213: 767928668264003643
+    second: Lord2-2_104
+  - first:
+      213: -4025054561583420991
+    second: Lord2-2_105
+  - first:
+      213: -3776011469854876239
+    second: Lord2-2_106
+  - first:
+      213: 4146475284387011118
+    second: Lord2-2_107
+  - first:
+      213: -6237008646902271369
+    second: Lord2-2_108
+  - first:
+      213: 8568506318904515201
+    second: Lord2-2_109
+  - first:
+      213: 5383803276882887257
+    second: Lord2-2_110
+  - first:
+      213: 7047234424073387595
+    second: Lord2-2_111
+  - first:
+      213: -3005421575932252180
+    second: Lord2-2_112
+  - first:
+      213: 8020431312305235206
+    second: Lord2-2_113
+  - first:
+      213: 172699108619880833
+    second: Lord2-2_114
+  - first:
+      213: -3651395700729575474
+    second: Lord2-2_115
+  - first:
+      213: -4284269984886675431
+    second: Lord2-2_116
+  - first:
+      213: -3891455500570210482
+    second: Lord2-2_117
+  - first:
+      213: -4170284170251725646
+    second: Lord2-2_118
+  - first:
+      213: 3671603046128681963
+    second: Lord2-2_119
+  - first:
+      213: -1722456334882807476
+    second: Lord2-2_120
+  - first:
+      213: -7241567231088573940
+    second: Lord2-2_121
+  - first:
+      213: -92249260535487691
+    second: Lord2-2_122
+  - first:
+      213: 2098080346264104826
+    second: Lord2-2_123
+  - first:
+      213: -8854438255518075066
+    second: Lord2-2_124
+  - first:
+      213: -3705685365247649439
+    second: Lord2-2_125
+  - first:
+      213: -116947427153951987
+    second: Lord2-2_126
+  - first:
+      213: 331367941337683162
+    second: Lord2-2_127
+  - first:
+      213: -1299922877605019639
+    second: Lord2-2_128
+  - first:
+      213: -8220748264454440919
+    second: Lord2-2_129
+  - first:
+      213: -8721030670357232631
+    second: Lord2-2_130
+  - first:
+      213: -3508672194564797066
+    second: Lord2-2_131
+  - first:
+      213: -1702555801401683050
+    second: Lord2-2_132
+  - first:
+      213: -1685866744856437433
+    second: Lord2-2_133
+  - first:
+      213: -8363732746574287125
+    second: Lord2-2_134
+  - first:
+      213: 7653394020153420766
+    second: Lord2-2_135
+  - first:
+      213: -5666397232512275639
+    second: Lord2-2_136
+  - first:
+      213: -3218238538645754587
+    second: Lord2-2_137
+  - first:
+      213: -1127870730107239097
+    second: Lord2-2_138
+  - first:
+      213: 3025546493491258726
+    second: Lord2-2_139
+  - first:
+      213: -7924436415802095348
+    second: Lord2-2_140
+  - first:
+      213: -1419412694913396333
+    second: Lord2-2_141
+  - first:
+      213: 7487446912082246446
+    second: Lord2-2_142
+  - first:
+      213: 2461215957042290850
+    second: Lord2-2_143
+  - first:
+      213: 4781408428347976258
+    second: Lord2-2_144
+  - first:
+      213: -1692028081195390603
+    second: Lord2-2_145
+  - first:
+      213: -5592429598085100765
+    second: Lord2-2_146
+  - first:
+      213: -4290551716598043885
+    second: Lord2-2_147
+  - first:
+      213: -2407921538047792157
+    second: Lord2-2_148
+  - first:
+      213: -8686057193753442339
+    second: Lord2-2_149
+  - first:
+      213: -9037910975462954343
+    second: Lord2-2_150
+  - first:
+      213: 6339959965292802692
+    second: Lord2-2_151
+  - first:
+      213: 8007360617307518697
+    second: Lord2-2_152
+  - first:
+      213: 4988810454080073922
+    second: Lord2-2_153
+  - first:
+      213: -1125648710989871348
+    second: Lord2-2_154
+  - first:
+      213: -3210452133248336198
+    second: Lord2-2_155
+  - first:
+      213: -7968985126506717095
+    second: Lord2-2_156
+  - first:
+      213: -8831668160339599260
+    second: Lord2-2_157
+  - first:
+      213: -2501419005332824837
+    second: Lord2-2_158
+  - first:
+      213: 4486070802799538266
+    second: Lord2-2_159
+  - first:
+      213: 7020570976947532035
+    second: Lord2-2_160
+  - first:
+      213: 3600765503865363811
+    second: Lord2-2_161
+  - first:
+      213: 7470359790459181489
+    second: Lord2-2_162
+  - first:
+      213: -6001708481159997104
+    second: Lord2-2_163
+  - first:
+      213: -1514025256614523934
+    second: Lord2-2_164
+  - first:
+      213: 5454426595126239581
+    second: Lord2-2_165
+  - first:
+      213: -3491591164232539689
+    second: Lord2-2_166
+  - first:
+      213: 2427932255148794895
+    second: Lord2-2_167
+  - first:
+      213: -2480642258392453189
+    second: Lord2-2_168
+  - first:
+      213: 8635173826716258162
+    second: Lord2-2_169
+  - first:
+      213: 710888542887966027
+    second: Lord2-2_170
+  - first:
+      213: -7940821575187688493
+    second: Lord2-2_171
+  - first:
+      213: -3006653859271640048
+    second: Lord2-2_172
+  - first:
+      213: 252708843080819103
+    second: Lord2-2_173
+  - first:
+      213: 828597923432310382
+    second: Lord2-2_174
+  - first:
+      213: -7900994778862545629
+    second: Lord2-2_175
+  - first:
+      213: 6073099206291139777
+    second: Lord2-2_176
+  - first:
+      213: 1981021923064391198
+    second: Lord2-2_177
+  - first:
+      213: -445152716236380832
+    second: Lord2-2_178
+  - first:
+      213: 2098490934512809787
+    second: Lord2-2_179
+  - first:
+      213: 7444235866576633828
+    second: Lord2-2_180
+  - first:
+      213: -1948186887887496827
+    second: Lord2-2_181
+  - first:
+      213: 5990656048480327896
+    second: Lord2-2_182
+  - first:
+      213: -5523672414789193988
+    second: Lord2-2_183
+  - first:
+      213: -2817699895500357458
+    second: Lord2-2_184
+  - first:
+      213: 2214693952730323847
+    second: Lord2-2_185
+  - first:
+      213: 3368059242003886095
+    second: Lord2-2_186
+  - first:
+      213: 563627209628654869
+    second: Lord2-2_187
+  - first:
+      213: -3558775289184485157
+    second: Lord2-2_188
+  - first:
+      213: 1215860556199765217
+    second: Lord2-2_189
+  - first:
+      213: -5188602348310215965
+    second: Lord2-2_190
+  - first:
+      213: 4134357488861142442
+    second: Lord2-2_191
+  - first:
+      213: 2604174063746456910
+    second: Lord2-2_192
+  - first:
+      213: 332746493055729054
+    second: Lord2-2_193
+  - first:
+      213: 6542580162252274239
+    second: Lord2-2_194
+  - first:
+      213: 1826724711187726054
+    second: Lord2-2_195
+  - first:
+      213: -8860262678586586151
+    second: Lord2-2_196
+  - first:
+      213: -2936443129957847670
+    second: Lord2-2_197
+  - first:
+      213: 4559262906318092750
+    second: Lord2-2_198
+  - first:
+      213: -5242914768518553708
+    second: Lord2-2_199
+  - first:
+      213: 7528449918179929802
+    second: Lord2-2_200
+  - first:
+      213: -1703196806363401052
+    second: Lord2-2_201
+  - first:
+      213: 8109590412266571499
+    second: Lord2-2_202
+  - first:
+      213: -9031360428684651188
+    second: Lord2-2_203
+  - first:
+      213: 7779718976920607491
+    second: Lord2-2_204
+  - first:
+      213: -2252610987915825544
+    second: Lord2-2_205
+  - first:
+      213: 5649655510592564870
+    second: Lord2-2_206
+  - first:
+      213: -1483312877468552975
+    second: Lord2-2_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord2-2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1376
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f3f9d8d64b9bb50800000000000000
+      internalID: 6609512310763372409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1376
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65711de523263b1f0800000000000000
+      internalID: -1030371921259063466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1376
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87baa076a24af4a20800000000000000
+      internalID: 3048835974777449336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1376
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e834124105936b0800000000000000
+      internalID: -5316129837746516478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1376
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bca1f54249b5cb0800000000000000
+      internalID: -4874139287763105019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1376
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb159a3746fd56e10800000000000000
+      internalID: 2190402416315814334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1376
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee7d0dfaaaf9af50800000000000000
+      internalID: 6893316316964159200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1376
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f45ac2899b8c40800000000000000
+      internalID: 5515670955664669175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1376
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2861096cf606720800000000000000
+      internalID: 2837390663855014606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1376
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682e66534027cee0800000000000000
+      internalID: -1240987698732324763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1376
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c1dbdc0a1ccbf0800000000000000
+      internalID: -302838432410778328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1376
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7b640469a158d50800000000000000
+      internalID: 6738821650055608259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1324
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70ae6cf25956620800000000000000
+      internalID: 2766781578522265599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1324
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b8cc84d078e1c0800000000000000
+      internalID: -4474202171595245301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1324
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3543e69d78968690800000000000000
+      internalID: -7600219655971322566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1324
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c6a9723f8e1490800000000000000
+      internalID: -7773618459842787305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1324
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c87233e69094bc0800000000000000
+      internalID: -3798494441801020365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1324
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290726be98648e3d0800000000000000
+      internalID: -3177211978936323950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1324
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7ca816c73bc460800000000000000
+      internalID: 7262960148022066611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1324
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613515b08f308b00800000000000000
+      internalID: 828732153462600034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1324
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0dafc612c1ba6c0800000000000000
+      internalID: -4131177303294422789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1324
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1299e9a3bfa9ec960800000000000000
+      internalID: 7624201622995769633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1324
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f3a6c652b0b2f0800000000000000
+      internalID: -959070634860351075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1324
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff938a697eb7460800000000000000
+      internalID: 7240635460181688121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1269
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a84e4739bab68700800000000000000
+      internalID: 542326109804316837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1269
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6162eaa372629ee0800000000000000
+      internalID: -1255833097155223187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1269
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4232925267a17ec10800000000000000
+      internalID: 2082662447414059812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1269
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3bf22ee7025280800000000000000
+      internalID: -9056167181318144005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1269
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76610ec2000e6f90800000000000000
+      internalID: -6958624362194704770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1269
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa71fce3f05a000800000000000000
+      internalID: 46460133594083218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1269
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c90a9d9dec8bb20800000000000000
+      internalID: 3150495374400068741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1269
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7086a2e0686879250800000000000000
+      internalID: 5951373342914799623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1269
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02bb2f2dfc8e3430800000000000000
+      internalID: 3764601357574320654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1269
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca13d2011c0e0d0800000000000000
+      internalID: -3395501843815486314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1188
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518bc3bee64f89960800000000000000
+      internalID: 7609100327672657941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1188
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf0968fd0e0a6c0800000000000000
+      internalID: -4134057207286137356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1188
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3172a5b1a4447280800000000000000
+      internalID: -9046530290152738499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1188
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743852befd4b6e0e0800000000000000
+      internalID: -2240904890754432185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1188
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544f899aede75a10800000000000000
+      internalID: 1898247359814386770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1188
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d7ed511e3d29f0800000000000000
+      internalID: -491668540002675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1188
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b240532516b230800000000000000
+      internalID: 3654131389072324417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1188
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470d2cb0e360e750800000000000000
+      internalID: 6332170892963809091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1188
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bae5cf328e48220800000000000000
+      internalID: 2487368135470918526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1188
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9bb838168392ae0800000000000000
+      internalID: -1573664603319322165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1141
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ff1ee4757c9b6f0800000000000000
+      internalID: -668283891888291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1141
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea1c56de7a42cf00800000000000000
+      internalID: 1135551964673481447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1141
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e2570e681dcd230800000000000000
+      internalID: 3665034573994339976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1103
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cbb186564ce7160800000000000000
+      internalID: 7025268408561941609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1130
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77085cd1f02bf3430800000000000000
+      internalID: 3764923591498760311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1103
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9426edb7f28a57560800000000000000
+      internalID: 7310934492000969289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1104
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef869db9dc273500800000000000000
+      internalID: 375818407609012193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1130
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb768453804547b00800000000000000
+      internalID: 825377025946052542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_52
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1104
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfeb3b33c9c100d0800000000000000
+      internalID: -3458261198494240814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1036
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15b53bc2a54eef50800000000000000
+      internalID: 6912539043556603162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1038
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b1332e323bb180800000000000000
+      internalID: -9098623379712133515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1059
+        width: 102
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a46e6a61f6f20120800000000000000
+      internalID: 2378735069938214049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1060
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc199a7a9346780800000000000000
+      internalID: -8690757988650988701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1058
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4488f8fc5a0c020800000000000000
+      internalID: 2360068515627025644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1060
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96c9548ddd134b0800000000000000
+      internalID: -5462340952073147905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1060
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a12fb7cad0c2a0800000000000000
+      internalID: -6719130092596779567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 976
+        width: 161
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d479909acfdd8a0800000000000000
+      internalID: -6278584502544020178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1013
+        width: 97
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d94bab5e31775470800000000000000
+      internalID: 8383293744013330898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 893
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e634d9129f8139c0800000000000000
+      internalID: -3949217540565879063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 893
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308554bc4b5d5470800000000000000
+      internalID: 8384958466234875961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 893
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c388c101a97ded0800000000000000
+      internalID: -2389271683307914139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 893
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a01b9dc909d2e0800000000000000
+      internalID: -2100636972517119634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 893
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e54de67b0c7c3c0800000000000000
+      internalID: -4339287821877223816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 893
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f088375cfe021c0800000000000000
+      internalID: -4530357593808826540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 893
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781c0d8f72c8ddcc0800000000000000
+      internalID: -3684634816813153913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_69
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 893
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0043d07b93383feb0800000000000000
+      internalID: -4687258503255084032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_70
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 893
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac492759a3ea91e0800000000000000
+      internalID: -2190187952311022424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 893
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3850bd63b784f0800000000000000
+      internalID: -826494722907816851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 893
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9f863182b847c0800000000000000
+      internalID: -4086820393802818451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_73
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 893
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72e55d859f5d81a0800000000000000
+      internalID: -6805678365960969605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_74
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 893
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3e918df0e6e650800000000000000
+      internalID: 6261939711311232615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_75
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 893
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c72e850c14dc4d0800000000000000
+      internalID: -3112759473062380456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_76
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 896
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4051a4405716f0800000000000000
+      internalID: -714013760220541381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_77
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 910
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3f842a3e3959430800000000000000
+      internalID: 3789097267391689689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 807
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6945090dd33f8210800000000000000
+      internalID: 1337344638784457071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 807
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a90f5e1d8fe14ca0800000000000000
+      internalID: -6034278636320781912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 807
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa38311799a53c0800000000000000
+      internalID: -4370011777471893643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 807
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73893b126b2e84dd0800000000000000
+      internalID: -2501500321126967241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 807
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591e33eb6c34e0300800000000000000
+      internalID: 220187952661389717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_83
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c5d445af264bf0800000000000000
+      internalID: -340532334948925317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 830
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d0cd32319024d0800000000000000
+      internalID: -3161367293443649154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 794
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd89451f4d1f140800000000000000
+      internalID: 4751813214824095614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_86
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 794
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8ace5a79516c90800000000000000
+      internalID: -7178357948940645503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fd6c8f483e7d00800000000000000
+      internalID: 972276483868193333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_88
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 822
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb1accbfc87e370800000000000000
+      internalID: 8351799047079705802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 794
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eaa2816a6478900800000000000000
+      internalID: 686595147381255762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_90
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 794
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff43bd9757bb990800000000000000
+      internalID: -7369167199032508465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_91
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 794
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2489fce45477ee540800000000000000
+      internalID: 5039096172632840258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_92
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 794
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f0fc0594dca140800000000000000
+      internalID: 4732391045091881256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 726
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7afdca9e7d918e60800000000000000
+      internalID: 7962818783256377978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_94
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 726
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7599c51a795ba0800000000000000
+      internalID: -6099709986301707130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_95
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 726
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6821bf7fe40f80800000000000000
+      internalID: -8141118894666911979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_96
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 726
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6156d5b772fb0da0800000000000000
+      internalID: -5977417484438449814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 726
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f1266e51507e5f0800000000000000
+      internalID: -727607223179403512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 726
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e40b922ad7f69e0800000000000000
+      internalID: -1625942805019865559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 726
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4f2255cf9aede0800000000000000
+      internalID: -1303053472334131746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_100
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 726
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a964d43a68a8d620800000000000000
+      internalID: 2799172342517098913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 726
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4623b2682c143bcf0800000000000000
+      internalID: -237774051590065564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_102
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 726
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaea1a05067c28be0800000000000000
+      internalID: -1476398511340540242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_103
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 726
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4c19e375153240800000000000000
+      internalID: 4770742967845276248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 726
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f6bc1e0b38aa00800000000000000
+      internalID: 767928668264003643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_105
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 742
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9214fa3322428c0800000000000000
+      internalID: -4025054561583420991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_106
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 724
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bddf770399e89bc0800000000000000
+      internalID: -3776011469854876239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_107
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 628
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a13db5d4d3b8930800000000000000
+      internalID: 4146475284387011118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_108
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 624
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772b9544ea1b179a0800000000000000
+      internalID: -6237008646902271369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 650
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a5ef1691379e670800000000000000
+      internalID: 8568506318904515201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 656
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95240334e8c17ba40800000000000000
+      internalID: 5383803276882887257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_111
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 655
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7ccfee5eccc160800000000000000
+      internalID: 7047234424073387595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 654
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef634600099a46d0800000000000000
+      internalID: -3005421575932252180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 660
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605af53d8cb4e4f60800000000000000
+      internalID: 8020431312305235206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_114
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 652
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189805e9cec856200800000000000000
+      internalID: 172699108619880833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_115
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 663
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec700a3c4f2a35dc0800000000000000
+      internalID: -3651395700729575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_116
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 660
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91826f4d5273b84c0800000000000000
+      internalID: -4284269984886675431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_117
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 660
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc54d07d5cef9c0800000000000000
+      internalID: -3891455500570210482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_118
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 663
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b416bb64ac2026c0800000000000000
+      internalID: -4170284170251725646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_119
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 679
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be30eb8748724f230800000000000000
+      internalID: 3671603046128681963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_120
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 663
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c416032e61b9818e0800000000000000
+      internalID: -1722456334882807476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_121
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 680
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c024bd588f8c08b90800000000000000
+      internalID: -7241567231088573940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_122
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 678
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336dfa49c348bef0800000000000000
+      internalID: -92249260535487691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_123
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 676
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fec4575f0ed1d10800000000000000
+      internalID: 2098080346264104826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_124
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 634
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473736c157be1580800000000000000
+      internalID: -8854438255518075066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_125
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 633
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169dc0b3bc2c29cc0800000000000000
+      internalID: -3705685365247649439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_126
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 636
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03c7134fe4806ef0800000000000000
+      internalID: -116947427153951987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad492611361499400800000000000000
+      internalID: 331367941337683162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_128
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 571
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90003f4b70fb5fde0800000000000000
+      internalID: -1299922877605019639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_129
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 573
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b84542090aed80800000000000000
+      internalID: -8220748264454440919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_130
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 574
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040212bfcca8f680800000000000000
+      internalID: -8721030670357232631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_131
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 574
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dcca19a31be4fc0800000000000000
+      internalID: -3508672194564797066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_132
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 571
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6931c27e48e4f58e0800000000000000
+      internalID: -1702555801401683050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d103ea0299a98e0800000000000000
+      internalID: -1685866744856437433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_134
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 584
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee2324416d0eeb80800000000000000
+      internalID: -8363732746574287125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_135
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 587
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe759df41563a60800000000000000
+      internalID: 7653394020153420766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_136
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 586
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b69d72db9ec51b0800000000000000
+      internalID: -5666397232512275639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_137
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 586
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d2c8d99158653d0800000000000000
+      internalID: -3218238538645754587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_138
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 588
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745c563fb8ff850f0800000000000000
+      internalID: -1127870730107239097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_139
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 588
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665a9fb7186ecf920800000000000000
+      internalID: 3025546493491258726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_140
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 587
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0942f6b01fb60290800000000000000
+      internalID: -7924436415802095348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_141
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 586
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d102acab3d4ce0800000000000000
+      internalID: -1419412694913396333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_142
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 472
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bf14ddb41c8e760800000000000000
+      internalID: 7487446912082246446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_143
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 472
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a067037fdef72220800000000000000
+      internalID: 2461215957042290850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_144
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 472
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a6db1f1a9fa5240800000000000000
+      internalID: 4781408428347976258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579ec56cc65b488e0800000000000000
+      internalID: -1692028081195390603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_146
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 472
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bc1c619e2b362b0800000000000000
+      internalID: -5592429598085100765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_147
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 472
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2bb132f5e474c0800000000000000
+      internalID: -4290551716598043885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_148
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 472
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb26ad6e18559ed0800000000000000
+      internalID: -2407921538047792157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_149
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 470
+        width: 111
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78993c00de47780800000000000000
+      internalID: -8686057193753442339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_150
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 470
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2deb4ad3e29280800000000000000
+      internalID: -9037910975462954343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_151
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 470
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b9757fff0cf750800000000000000
+      internalID: 6339959965292802692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_152
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 471
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6311f7e0cdf1f60800000000000000
+      internalID: 8007360617307518697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_153
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 470
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b2371da0db3540800000000000000
+      internalID: 4988810454080073922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_154
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 489
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0782971674e060f0800000000000000
+      internalID: -1125648710989871348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_155
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 408
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe76556bce2273d0800000000000000
+      internalID: -3210452133248336198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_156
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 400
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950223abf3a786190800000000000000
+      internalID: -7968985126506717095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_157
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 400
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a4d0b99c9f6580800000000000000
+      internalID: -8831668160339599260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_158
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 400
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcd9b0faac294dd0800000000000000
+      internalID: -2501419005332824837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_159
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 400
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503e1e70a9b14e30800000000000000
+      internalID: 4486070802799538266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_160
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 400
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ff516b141e6160800000000000000
+      internalID: 7020570976947532035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_161
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 400
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1069e52d78f130800000000000000
+      internalID: 3600765503865363811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_162
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 408
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b95ea656ac0ca760800000000000000
+      internalID: 7470359790459181489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059520f4fe5a5bca0800000000000000
+      internalID: -6001708481159997104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_164
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 403
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb858efc0a1dfae0800000000000000
+      internalID: -1514025256614523934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_165
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 403
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5161f7e61402bb40800000000000000
+      internalID: 5454426595126239581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_166
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 403
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e60bd5506b8fc0800000000000000
+      internalID: -3491591164232539689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_167
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 403
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f046bd6b58fb1b120800000000000000
+      internalID: 2427932255148794895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_168
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfe1bd420df29dd0800000000000000
+      internalID: -2480642258392453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_169
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 403
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f4c2328dc46d770800000000000000
+      internalID: 8635173826716258162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_170
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 403
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457bb10d559dd900800000000000000
+      internalID: 710888542887966027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_171
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 396
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d31e2289d88cc190800000000000000
+      internalID: -7940821575187688493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_172
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 332
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7e83be383646d0800000000000000
+      internalID: -3006653859271640048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_173
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 332
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ae679a5dc18300800000000000000
+      internalID: 252708843080819103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_174
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 277
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e662fc7db65cf7b00800000000000000
+      internalID: 828597923432310382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_175
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 282
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3259ea12c170a5290800000000000000
+      internalID: -7900994778862545629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_176
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 301
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca0bc2d8bf74450800000000000000
+      internalID: 6073099206291139777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_177
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 284
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a38071f00e7b10800000000000000
+      internalID: 1981021923064391198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_178
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 253
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0652eed86ff72d9f0800000000000000
+      internalID: -445152716236380832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_179
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 253
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37730cf2665f1d10800000000000000
+      internalID: 2098490934512809787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_180
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 259
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb583541d3f4760800000000000000
+      internalID: 7444235866576633828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_181
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 259
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589546fe856a6f4e0800000000000000
+      internalID: -1948186887887496827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_182
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 292
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8173dafe5132350800000000000000
+      internalID: 5990656048480327896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_183
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 295
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeadd45439f753b0800000000000000
+      internalID: -5523672414789193988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_184
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 292
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0cb05bfd485e8d0800000000000000
+      internalID: -2817699895500357458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_185
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 182
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b52b28a6c2cbe10800000000000000
+      internalID: 2214693952730323847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_186
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00fc1e2900cdbe20800000000000000
+      internalID: 3368059242003886095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_187
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 181
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d19aff5f762d700800000000000000
+      internalID: 563627209628654869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_188
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 182
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd088bccab0bc9ec0800000000000000
+      internalID: -3558775289184485157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_189
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 129
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e422b4ebba9fd010800000000000000
+      internalID: 1215860556199765217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_190
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2463497a16ef7b0800000000000000
+      internalID: -5188602348310215965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_191
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5b0a3b30306930800000000000000
+      internalID: 4134357488861142442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_192
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 112
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d94e27382e32420800000000000000
+      internalID: 2604174063746456910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_193
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df7d62c272e9400800000000000000
+      internalID: 332746493055729054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_194
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a70955ef9ebca50800000000000000
+      internalID: 6542580162252274239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_195
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 107
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeb5c84274d95910800000000000000
+      internalID: 1826724711187726054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_196
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db023a99060a0580800000000000000
+      internalID: -8860262678586586151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_197
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 81
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de9bff788af37d0800000000000000
+      internalID: -2936443129957847670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_198
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec974b01571c54f30800000000000000
+      internalID: 4559262906318092750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_199
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 86
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f5dc2dbcc6d37b0800000000000000
+      internalID: -5242914768518553708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_200
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceee6a205d6a7860800000000000000
+      internalID: 7528449918179929802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_201
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4312e47870d58e0800000000000000
+      internalID: -1703196806363401052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_202
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60015738d0b8070800000000000000
+      internalID: 8109590412266571499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_203
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 63
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455bb15a892aa280800000000000000
+      internalID: -9031360428684651188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_204
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd7b7d03d17fb60800000000000000
+      internalID: 7779718976920607491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea228cd3e1db0e0800000000000000
+      internalID: -2252610987915825544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_206
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 40
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea234f0cb976e40800000000000000
+      internalID: 5649655510592564870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord2-2_207
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 42
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f079bffbc63a6be0800000000000000
+      internalID: -1483312877468552975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lord2-2_0: 6609512310763372409
+      Lord2-2_1: -1030371921259063466
+      Lord2-2_10: -302838432410778328
+      Lord2-2_100: 2799172342517098913
+      Lord2-2_101: -237774051590065564
+      Lord2-2_102: -1476398511340540242
+      Lord2-2_103: 4770742967845276248
+      Lord2-2_104: 767928668264003643
+      Lord2-2_105: -4025054561583420991
+      Lord2-2_106: -3776011469854876239
+      Lord2-2_107: 4146475284387011118
+      Lord2-2_108: -6237008646902271369
+      Lord2-2_109: 8568506318904515201
+      Lord2-2_11: 6738821650055608259
+      Lord2-2_110: 5383803276882887257
+      Lord2-2_111: 7047234424073387595
+      Lord2-2_112: -3005421575932252180
+      Lord2-2_113: 8020431312305235206
+      Lord2-2_114: 172699108619880833
+      Lord2-2_115: -3651395700729575474
+      Lord2-2_116: -4284269984886675431
+      Lord2-2_117: -3891455500570210482
+      Lord2-2_118: -4170284170251725646
+      Lord2-2_119: 3671603046128681963
+      Lord2-2_12: 2766781578522265599
+      Lord2-2_120: -1722456334882807476
+      Lord2-2_121: -7241567231088573940
+      Lord2-2_122: -92249260535487691
+      Lord2-2_123: 2098080346264104826
+      Lord2-2_124: -8854438255518075066
+      Lord2-2_125: -3705685365247649439
+      Lord2-2_126: -116947427153951987
+      Lord2-2_127: 331367941337683162
+      Lord2-2_128: -1299922877605019639
+      Lord2-2_129: -8220748264454440919
+      Lord2-2_13: -4474202171595245301
+      Lord2-2_130: -8721030670357232631
+      Lord2-2_131: -3508672194564797066
+      Lord2-2_132: -1702555801401683050
+      Lord2-2_133: -1685866744856437433
+      Lord2-2_134: -8363732746574287125
+      Lord2-2_135: 7653394020153420766
+      Lord2-2_136: -5666397232512275639
+      Lord2-2_137: -3218238538645754587
+      Lord2-2_138: -1127870730107239097
+      Lord2-2_139: 3025546493491258726
+      Lord2-2_14: -7600219655971322566
+      Lord2-2_140: -7924436415802095348
+      Lord2-2_141: -1419412694913396333
+      Lord2-2_142: 7487446912082246446
+      Lord2-2_143: 2461215957042290850
+      Lord2-2_144: 4781408428347976258
+      Lord2-2_145: -1692028081195390603
+      Lord2-2_146: -5592429598085100765
+      Lord2-2_147: -4290551716598043885
+      Lord2-2_148: -2407921538047792157
+      Lord2-2_149: -8686057193753442339
+      Lord2-2_15: -7773618459842787305
+      Lord2-2_150: -9037910975462954343
+      Lord2-2_151: 6339959965292802692
+      Lord2-2_152: 8007360617307518697
+      Lord2-2_153: 4988810454080073922
+      Lord2-2_154: -1125648710989871348
+      Lord2-2_155: -3210452133248336198
+      Lord2-2_156: -7968985126506717095
+      Lord2-2_157: -8831668160339599260
+      Lord2-2_158: -2501419005332824837
+      Lord2-2_159: 4486070802799538266
+      Lord2-2_16: -3798494441801020365
+      Lord2-2_160: 7020570976947532035
+      Lord2-2_161: 3600765503865363811
+      Lord2-2_162: 7470359790459181489
+      Lord2-2_163: -6001708481159997104
+      Lord2-2_164: -1514025256614523934
+      Lord2-2_165: 5454426595126239581
+      Lord2-2_166: -3491591164232539689
+      Lord2-2_167: 2427932255148794895
+      Lord2-2_168: -2480642258392453189
+      Lord2-2_169: 8635173826716258162
+      Lord2-2_17: -3177211978936323950
+      Lord2-2_170: 710888542887966027
+      Lord2-2_171: -7940821575187688493
+      Lord2-2_172: -3006653859271640048
+      Lord2-2_173: 252708843080819103
+      Lord2-2_174: 828597923432310382
+      Lord2-2_175: -7900994778862545629
+      Lord2-2_176: 6073099206291139777
+      Lord2-2_177: 1981021923064391198
+      Lord2-2_178: -445152716236380832
+      Lord2-2_179: 2098490934512809787
+      Lord2-2_18: 7262960148022066611
+      Lord2-2_180: 7444235866576633828
+      Lord2-2_181: -1948186887887496827
+      Lord2-2_182: 5990656048480327896
+      Lord2-2_183: -5523672414789193988
+      Lord2-2_184: -2817699895500357458
+      Lord2-2_185: 2214693952730323847
+      Lord2-2_186: 3368059242003886095
+      Lord2-2_187: 563627209628654869
+      Lord2-2_188: -3558775289184485157
+      Lord2-2_189: 1215860556199765217
+      Lord2-2_19: 828732153462600034
+      Lord2-2_190: -5188602348310215965
+      Lord2-2_191: 4134357488861142442
+      Lord2-2_192: 2604174063746456910
+      Lord2-2_193: 332746493055729054
+      Lord2-2_194: 6542580162252274239
+      Lord2-2_195: 1826724711187726054
+      Lord2-2_196: -8860262678586586151
+      Lord2-2_197: -2936443129957847670
+      Lord2-2_198: 4559262906318092750
+      Lord2-2_199: -5242914768518553708
+      Lord2-2_2: 3048835974777449336
+      Lord2-2_20: -4131177303294422789
+      Lord2-2_200: 7528449918179929802
+      Lord2-2_201: -1703196806363401052
+      Lord2-2_202: 8109590412266571499
+      Lord2-2_203: -9031360428684651188
+      Lord2-2_204: 7779718976920607491
+      Lord2-2_205: -2252610987915825544
+      Lord2-2_206: 5649655510592564870
+      Lord2-2_207: -1483312877468552975
+      Lord2-2_21: 7624201622995769633
+      Lord2-2_22: -959070634860351075
+      Lord2-2_23: 7240635460181688121
+      Lord2-2_24: 542326109804316837
+      Lord2-2_25: -1255833097155223187
+      Lord2-2_26: 2082662447414059812
+      Lord2-2_27: -9056167181318144005
+      Lord2-2_28: -6958624362194704770
+      Lord2-2_29: 46460133594083218
+      Lord2-2_3: -5316129837746516478
+      Lord2-2_30: 3150495374400068741
+      Lord2-2_31: 5951373342914799623
+      Lord2-2_32: 3764601357574320654
+      Lord2-2_33: -3395501843815486314
+      Lord2-2_34: 7609100327672657941
+      Lord2-2_35: -4134057207286137356
+      Lord2-2_36: -9046530290152738499
+      Lord2-2_37: -2240904890754432185
+      Lord2-2_38: 1898247359814386770
+      Lord2-2_39: -491668540002675152
+      Lord2-2_4: -4874139287763105019
+      Lord2-2_40: 3654131389072324417
+      Lord2-2_41: 6332170892963809091
+      Lord2-2_42: 2487368135470918526
+      Lord2-2_43: -1573664603319322165
+      Lord2-2_44: -668283891888291943
+      Lord2-2_45: 1135551964673481447
+      Lord2-2_46: 3665034573994339976
+      Lord2-2_47: 7025268408561941609
+      Lord2-2_48: 3764923591498760311
+      Lord2-2_49: 7310934492000969289
+      Lord2-2_5: 2190402416315814334
+      Lord2-2_50: 375818407609012193
+      Lord2-2_51: 825377025946052542
+      Lord2-2_52: -3458261198494240814
+      Lord2-2_53: 6912539043556603162
+      Lord2-2_54: -9098623379712133515
+      Lord2-2_55: 2378735069938214049
+      Lord2-2_56: -8690757988650988701
+      Lord2-2_57: 2360068515627025644
+      Lord2-2_58: -5462340952073147905
+      Lord2-2_59: -6719130092596779567
+      Lord2-2_6: 6893316316964159200
+      Lord2-2_60: -6278584502544020178
+      Lord2-2_61: 8383293744013330898
+      Lord2-2_62: -3949217540565879063
+      Lord2-2_63: 8384958466234875961
+      Lord2-2_64: -2389271683307914139
+      Lord2-2_65: -2100636972517119634
+      Lord2-2_66: -4339287821877223816
+      Lord2-2_67: -4530357593808826540
+      Lord2-2_68: -3684634816813153913
+      Lord2-2_69: -4687258503255084032
+      Lord2-2_7: 5515670955664669175
+      Lord2-2_70: -2190187952311022424
+      Lord2-2_71: -826494722907816851
+      Lord2-2_72: -4086820393802818451
+      Lord2-2_73: -6805678365960969605
+      Lord2-2_74: 6261939711311232615
+      Lord2-2_75: -3112759473062380456
+      Lord2-2_76: -714013760220541381
+      Lord2-2_77: 3789097267391689689
+      Lord2-2_78: 1337344638784457071
+      Lord2-2_79: -6034278636320781912
+      Lord2-2_8: 2837390663855014606
+      Lord2-2_80: -4370011777471893643
+      Lord2-2_81: -2501500321126967241
+      Lord2-2_82: 220187952661389717
+      Lord2-2_83: -340532334948925317
+      Lord2-2_84: -3161367293443649154
+      Lord2-2_85: 4751813214824095614
+      Lord2-2_86: -7178357948940645503
+      Lord2-2_87: 972276483868193333
+      Lord2-2_88: 8351799047079705802
+      Lord2-2_89: 686595147381255762
+      Lord2-2_9: -1240987698732324763
+      Lord2-2_90: -7369167199032508465
+      Lord2-2_91: 5039096172632840258
+      Lord2-2_92: 4732391045091881256
+      Lord2-2_93: 7962818783256377978
+      Lord2-2_94: -6099709986301707130
+      Lord2-2_95: -8141118894666911979
+      Lord2-2_96: -5977417484438449814
+      Lord2-2_97: -727607223179403512
+      Lord2-2_98: -1625942805019865559
+      Lord2-2_99: -1303053472334131746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

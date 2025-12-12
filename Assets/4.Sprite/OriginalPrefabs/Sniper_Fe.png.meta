@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 63392f75d0b77dd44bbd65967700411f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1153443490164359731
+    second: Sniper_Fe_0
+  - first:
+      213: 5258837197089074209
+    second: Sniper_Fe_1
+  - first:
+      213: 4263819306729062010
+    second: Sniper_Fe_2
+  - first:
+      213: -5179578078738688293
+    second: Sniper_Fe_3
+  - first:
+      213: 7291760882942965305
+    second: Sniper_Fe_4
+  - first:
+      213: -1593152083262041013
+    second: Sniper_Fe_5
+  - first:
+      213: -7062903643743339780
+    second: Sniper_Fe_6
+  - first:
+      213: 8234905991415308077
+    second: Sniper_Fe_7
+  - first:
+      213: 5141974436167417309
+    second: Sniper_Fe_8
+  - first:
+      213: -7785270607565988222
+    second: Sniper_Fe_9
+  - first:
+      213: -7686605689004480569
+    second: Sniper_Fe_10
+  - first:
+      213: -1550584570824862112
+    second: Sniper_Fe_11
+  - first:
+      213: 944593848941094594
+    second: Sniper_Fe_12
+  - first:
+      213: 6234589104923923803
+    second: Sniper_Fe_13
+  - first:
+      213: -7289279229173608413
+    second: Sniper_Fe_14
+  - first:
+      213: 7540500123085099912
+    second: Sniper_Fe_15
+  - first:
+      213: 5475681377111373866
+    second: Sniper_Fe_16
+  - first:
+      213: 1854020039502987704
+    second: Sniper_Fe_17
+  - first:
+      213: -5487155796076791461
+    second: Sniper_Fe_18
+  - first:
+      213: 7064217539511901077
+    second: Sniper_Fe_19
+  - first:
+      213: 4027219303586014556
+    second: Sniper_Fe_20
+  - first:
+      213: -1480422939155287656
+    second: Sniper_Fe_21
+  - first:
+      213: 2409783467668413680
+    second: Sniper_Fe_22
+  - first:
+      213: -6976486200981865440
+    second: Sniper_Fe_23
+  - first:
+      213: -8612401482002632780
+    second: Sniper_Fe_24
+  - first:
+      213: 2270001335521868497
+    second: Sniper_Fe_25
+  - first:
+      213: 2082274336161965978
+    second: Sniper_Fe_26
+  - first:
+      213: -5837603853850096789
+    second: Sniper_Fe_27
+  - first:
+      213: -2993811212459829063
+    second: Sniper_Fe_28
+  - first:
+      213: 5676987064772459106
+    second: Sniper_Fe_29
+  - first:
+      213: 8107872447055739941
+    second: Sniper_Fe_30
+  - first:
+      213: -5266491240829077105
+    second: Sniper_Fe_31
+  - first:
+      213: 2432515939322463758
+    second: Sniper_Fe_32
+  - first:
+      213: 4409275286132439695
+    second: Sniper_Fe_33
+  - first:
+      213: 4359776643053917444
+    second: Sniper_Fe_34
+  - first:
+      213: -8726710952115674291
+    second: Sniper_Fe_35
+  - first:
+      213: -1727904428986710432
+    second: Sniper_Fe_36
+  - first:
+      213: -4908866649591221714
+    second: Sniper_Fe_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sniper_Fe_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3444c1452effe0800000000000000
+      internalID: -1153443490164359731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 555
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cea1871942bf840800000000000000
+      internalID: 5258837197089074209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 554
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb90c91112c2b30800000000000000
+      internalID: 4263819306729062010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 551
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd651621e217e18b0800000000000000
+      internalID: -5179578078738688293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 548
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93677eeb3e9813560800000000000000
+      internalID: 7291760882942965305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 545
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441ef30f9cf3e9e0800000000000000
+      internalID: -1593152083262041013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 545
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfabddf8e868bfd90800000000000000
+      internalID: -7062903643743339780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 486
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9b096e53484270800000000000000
+      internalID: 8234905991415308077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 486
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf5ef9186fb5740800000000000000
+      internalID: 5141974436167417309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e5dbb61a925f390800000000000000
+      internalID: -7785270607565988222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 485
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7246ae9d0b35590800000000000000
+      internalID: -7686605689004480569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 485
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06658c55c873b7ae0800000000000000
+      internalID: -1550584570824862112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 486
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62727d91fdb1d00800000000000000
+      internalID: 944593848941094594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 487
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d28732c5b58650800000000000000
+      internalID: 6234589104923923803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 453
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320597c492747da90800000000000000
+      internalID: -7289279229173608413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883d64129ec35a860800000000000000
+      internalID: 7540500123085099912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 431
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f1f973378dfb40800000000000000
+      internalID: 5475681377111373866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 431
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b10805276dcab910800000000000000
+      internalID: 1854020039502987704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 346
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59fd9b20e4b9d3b0800000000000000
+      internalID: -5487155796076791461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 347
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd0b2ac64290260800000000000000
+      internalID: 7064217539511901077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 345
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5527d69e9e83e730800000000000000
+      internalID: 4027219303586014556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 345
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8913f423e2b747be0800000000000000
+      internalID: -1480422939155287656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 345
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1cf7db45417120800000000000000
+      internalID: 2409783467668413680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 345
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cbf0263ca8e2f90800000000000000
+      internalID: -6976486200981865440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf6f2a8b7a9a7880800000000000000
+      internalID: -8612401482002632780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 278
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da717b003aa08f10800000000000000
+      internalID: 2270001335521868497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 278
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a8d3f979b5ec10800000000000000
+      internalID: 2082274336161965978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b40df493aacfea0800000000000000
+      internalID: -5837603853850096789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 278
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b810cc6098d376d0800000000000000
+      internalID: -2993811212459829063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 277
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aff3e48a5b8ce40800000000000000
+      internalID: 5676987064772459106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3fe28803f48070800000000000000
+      internalID: 8107872447055739941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 217
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893da99e1aa9e6b0800000000000000
+      internalID: -5266491240829077105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068ac9db5802c120800000000000000
+      internalID: 2432515939322463758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 216
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a35dae284e03d30800000000000000
+      internalID: 4409275286132439695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 218
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405164df1c9018c30800000000000000
+      internalID: 4359776643053917444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 220
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4362a900ae74e680800000000000000
+      internalID: -8726710952115674291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0664c60a3104508e0800000000000000
+      internalID: -1727904428986710432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fe_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e227a5d5ac330ebb0800000000000000
+      internalID: -4908866649591221714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sniper_Fe_0: -1153443490164359731
+      Sniper_Fe_1: 5258837197089074209
+      Sniper_Fe_10: -7686605689004480569
+      Sniper_Fe_11: -1550584570824862112
+      Sniper_Fe_12: 944593848941094594
+      Sniper_Fe_13: 6234589104923923803
+      Sniper_Fe_14: -7289279229173608413
+      Sniper_Fe_15: 7540500123085099912
+      Sniper_Fe_16: 5475681377111373866
+      Sniper_Fe_17: 1854020039502987704
+      Sniper_Fe_18: -5487155796076791461
+      Sniper_Fe_19: 7064217539511901077
+      Sniper_Fe_2: 4263819306729062010
+      Sniper_Fe_20: 4027219303586014556
+      Sniper_Fe_21: -1480422939155287656
+      Sniper_Fe_22: 2409783467668413680
+      Sniper_Fe_23: -6976486200981865440
+      Sniper_Fe_24: -8612401482002632780
+      Sniper_Fe_25: 2270001335521868497
+      Sniper_Fe_26: 2082274336161965978
+      Sniper_Fe_27: -5837603853850096789
+      Sniper_Fe_28: -2993811212459829063
+      Sniper_Fe_29: 5676987064772459106
+      Sniper_Fe_3: -5179578078738688293
+      Sniper_Fe_30: 8107872447055739941
+      Sniper_Fe_31: -5266491240829077105
+      Sniper_Fe_32: 2432515939322463758
+      Sniper_Fe_33: 4409275286132439695
+      Sniper_Fe_34: 4359776643053917444
+      Sniper_Fe_35: -8726710952115674291
+      Sniper_Fe_36: -1727904428986710432
+      Sniper_Fe_37: -4908866649591221714
+      Sniper_Fe_4: 7291760882942965305
+      Sniper_Fe_5: -1593152083262041013
+      Sniper_Fe_6: -7062903643743339780
+      Sniper_Fe_7: 8234905991415308077
+      Sniper_Fe_8: 5141974436167417309
+      Sniper_Fe_9: -7785270607565988222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

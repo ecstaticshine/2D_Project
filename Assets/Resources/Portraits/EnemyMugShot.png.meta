@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 1092f2e9a12088349811daaa24379028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5588691404169420565
+    second: EnemyMugShot_0
+  - first:
+      213: 3360312171884763974
+    second: EnemyMugShot_1
+  - first:
+      213: -4722982525180416705
+    second: EnemyMugShot_2
+  - first:
+      213: 584691277074030758
+    second: EnemyMugShot_3
+  - first:
+      213: -8545335986300532413
+    second: EnemyMugShot_4
+  - first:
+      213: 7002748598083859288
+    second: EnemyMugShot_5
+  - first:
+      213: -6027096128351004959
+    second: EnemyMugShot_6
+  - first:
+      213: -7858957203545307534
+    second: EnemyMugShot_7
+  - first:
+      213: -8427543502547697966
+    second: EnemyMugShot_8
+  - first:
+      213: 4744028267980096000
+    second: EnemyMugShot_9
+  - first:
+      213: 5689832573079479783
+    second: EnemyMugShot_10
+  - first:
+      213: 5569433153487583298
+    second: EnemyMugShot_11
+  - first:
+      213: 1118226055186179821
+    second: EnemyMugShot_12
+  - first:
+      213: 7388993169021449339
+    second: EnemyMugShot_13
+  - first:
+      213: 1627459024831043054
+    second: EnemyMugShot_14
+  - first:
+      213: 8562634687620832966
+    second: EnemyMugShot_15
+  - first:
+      213: 1526074832351324247
+    second: EnemyMugShot_16
+  - first:
+      213: 1402702561319544477
+    second: EnemyMugShot_17
+  - first:
+      213: 8130637552698477162
+    second: EnemyMugShot_18
+  - first:
+      213: 8821118601738669771
+    second: EnemyMugShot_19
+  - first:
+      213: 1053011071525085094
+    second: EnemyMugShot_20
+  - first:
+      213: -5143114353695326509
+    second: EnemyMugShot_21
+  - first:
+      213: -7528433558232628868
+    second: EnemyMugShot_22
+  - first:
+      213: -8684371007006643959
+    second: EnemyMugShot_23
+  - first:
+      213: 6668113064909541242
+    second: EnemyMugShot_24
+  - first:
+      213: 2626578966157126863
+    second: EnemyMugShot_25
+  - first:
+      213: 417892482133495234
+    second: EnemyMugShot_26
+  - first:
+      213: -1101474705294421286
+    second: EnemyMugShot_27
+  - first:
+      213: 8771110045956790386
+    second: EnemyMugShot_28
+  - first:
+      213: 9094200395841287093
+    second: EnemyMugShot_29
+  - first:
+      213: 102162299829606849
+    second: EnemyMugShot_30
+  - first:
+      213: 8330341280142029160
+    second: EnemyMugShot_31
+  - first:
+      213: -2214725831003072637
+    second: EnemyMugShot_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyMugShot_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e33f27caf072b0800000000000000
+      internalID: -5588691404169420565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 486
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bdc9bdd1a32ae20800000000000000
+      internalID: 3360312171884763974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6e32ba68947eb0800000000000000
+      internalID: -4722982525180416705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 486
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a064416e9d3d1800800000000000000
+      internalID: 584691277074030758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c132123ed86980800000000000000
+      internalID: -8545335986300532413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 486
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85337207fb2ce2160800000000000000
+      internalID: 7002748598083859288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6918211047b5ca0800000000000000
+      internalID: -6027096128351004959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 486
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2764fa9df006fe290800000000000000
+      internalID: -7858957203545307534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3e71e5d95b0b80800000000000000
+      internalID: -8427543502547697966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 486
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028d55239c26d140800000000000000
+      internalID: 4744028267980096000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e569d5449856fe40800000000000000
+      internalID: 5689832573079479783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 325
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24839e9e1f99a4d40800000000000000
+      internalID: 5569433153487583298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 398
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de665fd2cacb48f00800000000000000
+      internalID: 1118226055186179821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 325
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74bf4f732afa8660800000000000000
+      internalID: 7388993169021449339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 398
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5de854c55e59610800000000000000
+      internalID: 1627459024831043054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 325
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced311b1e694d670800000000000000
+      internalID: 8562634687620832966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 398
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e6fa79f4bd2510800000000000000
+      internalID: 1526074832351324247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 325
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966bf43c86677310800000000000000
+      internalID: 1402702561319544477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 398
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4b06b6c3d5d070800000000000000
+      internalID: 8130637552698477162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 325
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce493ac1a8ea6a70800000000000000
+      internalID: 8821118601738669771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 234
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5ece8dfb0d9e00800000000000000
+      internalID: 1053011071525085094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def6c4aebcff98b0800000000000000
+      internalID: -5143114353695326509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 234
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710a6ee091a58790800000000000000
+      internalID: -7528433558232628868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 161
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909eaa5b49aea7780800000000000000
+      internalID: -8684371007006643959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f031cd085e98c50800000000000000
+      internalID: 6668113064909541242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 161
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccee4c47ab737420800000000000000
+      internalID: 2626578966157126863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 234
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8fd79ff6acc500800000000000000
+      internalID: 417892482133495234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 161
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad219d56796c6b0f0800000000000000
+      internalID: -1101474705294421286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 234
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2785d1f8d1e39b970800000000000000
+      internalID: 8771110045956790386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3365ea317153e70800000000000000
+      internalID: 9094200395841287093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 82
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d7c60214fa6100800000000000000
+      internalID: 102162299829606849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 156
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86173ac12415b9370800000000000000
+      internalID: 8330341280142029160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMugShot_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871e204796b341e0800000000000000
+      internalID: -2214725831003072637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemyMugShot_0: -5588691404169420565
+      EnemyMugShot_1: 3360312171884763974
+      EnemyMugShot_10: 5689832573079479783
+      EnemyMugShot_11: 5569433153487583298
+      EnemyMugShot_12: 1118226055186179821
+      EnemyMugShot_13: 7388993169021449339
+      EnemyMugShot_14: 1627459024831043054
+      EnemyMugShot_15: 8562634687620832966
+      EnemyMugShot_16: 1526074832351324247
+      EnemyMugShot_17: 1402702561319544477
+      EnemyMugShot_18: 8130637552698477162
+      EnemyMugShot_19: 8821118601738669771
+      EnemyMugShot_2: -4722982525180416705
+      EnemyMugShot_20: 1053011071525085094
+      EnemyMugShot_21: -5143114353695326509
+      EnemyMugShot_22: -7528433558232628868
+      EnemyMugShot_23: -8684371007006643959
+      EnemyMugShot_24: 6668113064909541242
+      EnemyMugShot_25: 2626578966157126863
+      EnemyMugShot_26: 417892482133495234
+      EnemyMugShot_27: -1101474705294421286
+      EnemyMugShot_28: 8771110045956790386
+      EnemyMugShot_29: 9094200395841287093
+      EnemyMugShot_3: 584691277074030758
+      EnemyMugShot_30: 102162299829606849
+      EnemyMugShot_31: 8330341280142029160
+      EnemyMugShot_32: -2214725831003072637
+      EnemyMugShot_4: -8545335986300532413
+      EnemyMugShot_5: 7002748598083859288
+      EnemyMugShot_6: -6027096128351004959
+      EnemyMugShot_7: -7858957203545307534
+      EnemyMugShot_8: -8427543502547697966
+      EnemyMugShot_9: 4744028267980096000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

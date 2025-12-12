@@ -1,0 +1,45 @@
+﻿{
+    "UnitId": "Eliwood",
+    "BaseClassId": "Lord",
+    "UnitName": "엘리우드",
+    "Level": 10,
+    "Exp": 0,
+    "BaseStats": {
+        "MAXHP": 25,
+        "Power": 10,
+        "Skill": 11,
+        "Spd": 10,
+        "Luck": 13,
+        "Def": 10,
+        "Res": 2,
+        "Move": 5,
+        "Con": 7,
+        "Aid": 6
+    },
+    "GrowthRates": {
+        "MaxHpGrowth": 80,
+        "PowerGrowth": 45,
+        "SkillGrowth": 50,
+        "SpdGrowth": 40,
+        "LuckGrowth": 45,
+        "DefGrowth": 30,
+        "ResGrowth": 35
+    },
+    "WeaponRanks": [
+        {
+            "WeaponType": 0,
+            "Rank": "C",
+            "Exp": 0
+        }
+    ],
+    "Inventory": [
+        {
+            "itemId": "IronSword",
+            "Durability": 46
+        },
+        {
+            "itemId": "LightSword",
+            "Durability": 30
+        }
+    ]
+}

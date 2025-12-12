@@ -7,4 +7,4 @@
 <br>
 2. [시연 영상](https://drive.google.com/file/d/1ZmlGfPQAF-BziYx6BIc50EMScFGC160o/view?usp=drive_link)
 
-[Click here to try]((https://github.com/ecstaticshine/))
+[Click here to try](https://github.com/ecstaticshine/)
